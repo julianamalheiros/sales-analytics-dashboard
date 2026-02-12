@@ -1,0 +1,54 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+# Configuração de estilo dos gráficos
+sns.set_theme(style="whitegrid")
+def analisar_vendas():
+    print("--- INICIANDO ANÁLISE ---")
+    
+    # 1. Carregamento
+    try:
+        df = pd.read_csv('vendas_loja.csv')
+        print(f"Dados carregados! {len(df)} linhas encontradas.")
+    except FileNotFoundError:
+        print("Erro: Arquivo 'vendas_loja.csv' não encontrado. Rode o script anterior primeiro.")
+        return
+    # 2. Análise Básica (KPIs)
+    faturamento_total = df['valor_total'].sum()
+    ticket_medio = df['valor_total'].mean()
+    qtd_vendas = df['id_venda'].count()
+    
+    print(f"\n--- KPIs GERAIS ---")
+    print(f"Faturamento Total: R$ {faturamento_total:,.2f}")
+    print(f"Ticket Médio: R$ {ticket_medio:,.2f}")
+    print(f"Total de Vendas: {qtd_vendas}")
+    # 3. Perguntas de Negócio
+    
+    # a) Quem são os melhores vendedores?
+    vendas_por_vendedor = df.groupby('vendedor')['valor_total'].sum().sort_values(ascending=False)
+    print("\n--- TOP VENDEDORES ---")
+    print(vendas_por_vendedor)
+    # b) Qual produto vende mais (em R$)?
+    vendas_por_produto = df.groupby('produto')['valor_total'].sum().sort_values(ascending=False)
+    print("\n--- TOP PRODUTOS (Faturamento) ---")
+    print(vendas_por_produto)
+    
+    # 4. Visualização (Gráficos)
+    plt.figure(figsize=(10, 6))
+    
+    # Gráfico de barras: Vendas por Cidade
+    sns.barplot(x=df['cidade'].unique(), y=df.groupby('cidade')['valor_total'].sum())
+    plt.title('Faturamento por Cidade')
+    plt.ylabel('Total de Vendas (R$)')
+    plt.xlabel('Cidade')
+    plt.xticks(rotation=45)
+    
+    # Salvar o gráfico
+    plt.tight_layout()
+    plt.savefig('grafico_cidades.png')
+    print("\n✅ Gráfico 'grafico_cidades.png' salvo com sucesso!")
+    
+    # Mostrar na tela
+    plt.show()
+if __name__ == "__main__":
+    analisar_vendas()

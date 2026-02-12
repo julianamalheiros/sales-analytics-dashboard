@@ -1,0 +1,2001 @@
+id_venda,data,produto,categoria,quantidade,preco_unitario,valor_total,vendedor,cidade
+1,2025-08-18,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Rio de Janeiro
+2,2025-09-01,Webcam HD,Eletrônicos,2,180.0,360.0,Carlos,Belo Horizonte
+3,2025-07-20,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,Belo Horizonte
+4,2025-08-16,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Belo Horizonte
+5,2025-05-07,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,Belo Horizonte
+6,2025-08-03,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Eduardo,Belo Horizonte
+7,2025-03-11,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Belo Horizonte
+8,2025-11-18,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,Belo Horizonte
+9,2025-06-14,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Porto Alegre
+10,2025-05-20,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Belo Horizonte
+11,2026-01-23,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,Belo Horizonte
+12,2025-10-26,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,Belo Horizonte
+13,2026-01-23,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,Rio de Janeiro
+14,2025-03-11,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Porto Alegre
+15,2025-12-27,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,Porto Alegre
+16,2025-08-05,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,Porto Alegre
+17,2026-01-10,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Belo Horizonte
+18,2025-06-14,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Belo Horizonte
+19,2025-03-28,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Eduardo,Rio de Janeiro
+20,2025-11-01,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Rio de Janeiro
+21,2025-03-16,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Rio de Janeiro
+22,2025-02-15,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Carlos,Porto Alegre
+23,2025-05-24,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Porto Alegre
+24,2025-03-18,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Diana,São Paulo
+25,2025-12-26,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,São Paulo
+26,2025-08-11,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Rio de Janeiro
+27,2025-10-06,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Belo Horizonte
+28,2026-01-01,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Eduardo,Curitiba
+29,2025-02-13,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,Curitiba
+30,2025-07-26,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,Rio de Janeiro
+31,2025-04-14,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Curitiba
+32,2025-05-22,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Rio de Janeiro
+33,2025-05-11,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,Belo Horizonte
+34,2025-11-20,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Rio de Janeiro
+35,2025-08-06,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Ana,Belo Horizonte
+36,2025-08-08,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,São Paulo
+37,2025-03-26,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,São Paulo
+38,2025-03-05,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,São Paulo
+39,2025-12-31,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,Belo Horizonte
+40,2025-12-07,Webcam HD,Eletrônicos,1,180.0,180.0,Bruno,Porto Alegre
+41,2025-08-31,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Carlos,Rio de Janeiro
+42,2026-02-01,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,Rio de Janeiro
+43,2025-11-02,Headset RGB,Eletrônicos,3,250.0,750.0,Bruno,Belo Horizonte
+44,2025-05-26,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,Belo Horizonte
+45,2025-10-03,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,Belo Horizonte
+46,2026-01-20,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,Porto Alegre
+47,2025-12-18,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,Belo Horizonte
+48,2025-11-07,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,Curitiba
+49,2026-01-10,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Curitiba
+50,2025-07-07,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Porto Alegre
+51,2025-11-26,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,São Paulo
+52,2025-07-31,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,Belo Horizonte
+53,2026-01-28,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,São Paulo
+54,2025-05-08,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,São Paulo
+55,2025-04-06,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,Belo Horizonte
+56,2025-03-28,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Belo Horizonte
+57,2025-08-11,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Belo Horizonte
+58,2026-01-26,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Curitiba
+59,2025-07-26,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Belo Horizonte
+60,2026-01-16,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,São Paulo
+61,2025-04-19,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,Belo Horizonte
+62,2025-09-11,Webcam HD,Eletrônicos,1,180.0,180.0,Bruno,São Paulo
+63,2025-03-19,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,Belo Horizonte
+64,2025-05-30,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,Belo Horizonte
+65,2025-07-26,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Belo Horizonte
+66,2025-10-11,Webcam HD,Eletrônicos,2,180.0,360.0,Carlos,Belo Horizonte
+67,2025-10-16,Webcam HD,Eletrônicos,1,180.0,180.0,Ana,São Paulo
+68,2025-08-04,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,São Paulo
+69,2025-04-28,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Curitiba
+70,2025-04-05,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Eduardo,Curitiba
+71,2026-01-20,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,Porto Alegre
+72,2026-02-09,Headset RGB,Eletrônicos,3,250.0,750.0,Bruno,Belo Horizonte
+73,2025-09-16,Webcam HD,Eletrônicos,2,180.0,360.0,Carlos,São Paulo
+74,2025-04-28,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Belo Horizonte
+75,2025-03-11,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Curitiba
+76,2025-05-28,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Belo Horizonte
+77,2025-06-13,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Belo Horizonte
+78,2025-08-07,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Curitiba
+79,2025-07-03,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,São Paulo
+80,2026-01-23,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Porto Alegre
+81,2025-06-06,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Diana,Rio de Janeiro
+82,2025-09-20,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Belo Horizonte
+83,2025-12-25,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,São Paulo
+84,2025-08-02,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Curitiba
+85,2025-10-24,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Curitiba
+86,2025-08-17,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,São Paulo
+87,2025-09-30,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,São Paulo
+88,2026-01-22,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,São Paulo
+89,2025-07-03,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Bruno,Porto Alegre
+90,2025-04-25,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Curitiba
+91,2025-06-13,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Belo Horizonte
+92,2025-04-23,Webcam HD,Eletrônicos,3,180.0,540.0,Diana,São Paulo
+93,2025-03-18,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,Rio de Janeiro
+94,2025-02-21,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,Rio de Janeiro
+95,2025-08-02,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,São Paulo
+96,2025-02-16,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,São Paulo
+97,2025-08-29,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,Belo Horizonte
+98,2026-02-04,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,São Paulo
+99,2025-05-21,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,São Paulo
+100,2025-10-10,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Curitiba
+101,2025-02-24,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,Porto Alegre
+102,2025-08-20,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Porto Alegre
+103,2025-10-06,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Rio de Janeiro
+104,2026-01-14,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Carlos,Porto Alegre
+105,2025-08-04,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,São Paulo
+106,2025-06-25,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Ana,Belo Horizonte
+107,2025-02-23,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Rio de Janeiro
+108,2025-05-15,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Porto Alegre
+109,2025-07-16,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Carlos,Belo Horizonte
+110,2025-02-23,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Curitiba
+111,2025-07-12,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,Rio de Janeiro
+112,2025-07-03,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,Rio de Janeiro
+113,2025-03-21,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,Porto Alegre
+114,2025-07-02,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Curitiba
+115,2025-10-03,Webcam HD,Eletrônicos,2,180.0,360.0,Carlos,São Paulo
+116,2025-04-17,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Porto Alegre
+117,2026-01-30,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Curitiba
+118,2025-12-08,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Belo Horizonte
+119,2025-11-28,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Belo Horizonte
+120,2025-05-25,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,Rio de Janeiro
+121,2025-06-28,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,Rio de Janeiro
+122,2025-08-25,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Curitiba
+123,2025-03-02,Webcam HD,Eletrônicos,2,180.0,360.0,Carlos,São Paulo
+124,2025-10-18,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Rio de Janeiro
+125,2025-11-03,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Rio de Janeiro
+126,2025-06-12,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,São Paulo
+127,2026-01-06,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Rio de Janeiro
+128,2025-03-25,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,São Paulo
+129,2026-02-01,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,Porto Alegre
+130,2025-02-11,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Eduardo,Curitiba
+131,2025-08-08,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Porto Alegre
+132,2025-06-19,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Bruno,Belo Horizonte
+133,2025-06-04,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,Porto Alegre
+134,2025-06-12,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,Curitiba
+135,2026-02-04,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,Curitiba
+136,2025-05-14,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Porto Alegre
+137,2025-10-04,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Diana,Porto Alegre
+138,2025-06-16,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Porto Alegre
+139,2025-04-07,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,São Paulo
+140,2025-12-25,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Curitiba
+141,2025-09-27,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,Belo Horizonte
+142,2025-07-02,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,Rio de Janeiro
+143,2025-12-28,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Bruno,Belo Horizonte
+144,2025-12-26,Webcam HD,Eletrônicos,1,180.0,180.0,Carlos,Porto Alegre
+145,2026-01-30,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,Curitiba
+146,2025-11-06,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,São Paulo
+147,2025-08-07,Headset RGB,Eletrônicos,3,250.0,750.0,Bruno,Belo Horizonte
+148,2025-05-06,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Belo Horizonte
+149,2025-10-18,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Curitiba
+150,2025-04-08,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Ana,Porto Alegre
+151,2025-05-10,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,São Paulo
+152,2025-11-25,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,São Paulo
+153,2025-07-08,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Belo Horizonte
+154,2025-05-23,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,Porto Alegre
+155,2026-01-22,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,Rio de Janeiro
+156,2025-08-14,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,Porto Alegre
+157,2025-08-05,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,Curitiba
+158,2025-11-15,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Porto Alegre
+159,2025-02-22,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,Belo Horizonte
+160,2025-10-02,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Porto Alegre
+161,2026-01-22,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,São Paulo
+162,2025-12-15,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Ana,Belo Horizonte
+163,2025-02-21,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,São Paulo
+164,2025-11-12,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Porto Alegre
+165,2025-11-05,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,Rio de Janeiro
+166,2025-02-11,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Porto Alegre
+167,2025-12-17,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Rio de Janeiro
+168,2025-08-16,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Porto Alegre
+169,2025-03-11,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,São Paulo
+170,2025-06-11,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,São Paulo
+171,2025-07-18,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Curitiba
+172,2025-10-27,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,Rio de Janeiro
+173,2025-12-22,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Porto Alegre
+174,2025-05-09,Webcam HD,Eletrônicos,1,180.0,180.0,Carlos,Belo Horizonte
+175,2025-04-21,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Carlos,São Paulo
+176,2025-09-05,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,São Paulo
+177,2025-04-29,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,São Paulo
+178,2025-06-22,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Belo Horizonte
+179,2025-09-02,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,Porto Alegre
+180,2025-05-17,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Porto Alegre
+181,2025-03-09,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Rio de Janeiro
+182,2026-01-18,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Belo Horizonte
+183,2025-08-18,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Curitiba
+184,2025-06-29,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,São Paulo
+185,2025-09-11,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Curitiba
+186,2025-03-28,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,Belo Horizonte
+187,2025-06-13,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,São Paulo
+188,2025-03-15,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,Curitiba
+189,2025-03-14,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,Belo Horizonte
+190,2025-10-01,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,São Paulo
+191,2025-11-13,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Rio de Janeiro
+192,2025-06-30,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,Curitiba
+193,2025-03-25,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,São Paulo
+194,2025-03-23,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,Porto Alegre
+195,2026-01-10,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,Rio de Janeiro
+196,2025-07-25,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Rio de Janeiro
+197,2026-01-14,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Bruno,Porto Alegre
+198,2025-03-09,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Diana,Rio de Janeiro
+199,2025-11-03,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Porto Alegre
+200,2025-03-29,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Belo Horizonte
+201,2025-04-11,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Ana,Porto Alegre
+202,2025-05-22,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Belo Horizonte
+203,2025-09-08,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,Belo Horizonte
+204,2025-07-10,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Ana,Curitiba
+205,2025-11-27,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Curitiba
+206,2025-12-11,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,Porto Alegre
+207,2025-02-27,Monitor 24pol,Eletrônicos,1,890.0,890.0,Ana,Belo Horizonte
+208,2025-12-10,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,São Paulo
+209,2025-05-11,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Eduardo,Rio de Janeiro
+210,2025-08-01,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Porto Alegre
+211,2025-12-30,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,São Paulo
+212,2025-09-05,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Belo Horizonte
+213,2025-10-22,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,Curitiba
+214,2025-05-17,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Porto Alegre
+215,2025-04-23,Headset RGB,Eletrônicos,3,250.0,750.0,Bruno,Porto Alegre
+216,2025-09-21,Webcam HD,Eletrônicos,1,180.0,180.0,Bruno,Belo Horizonte
+217,2025-05-07,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Rio de Janeiro
+218,2025-07-13,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,Porto Alegre
+219,2025-02-12,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Porto Alegre
+220,2025-09-16,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,Rio de Janeiro
+221,2025-11-01,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Bruno,Rio de Janeiro
+222,2025-07-24,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,Porto Alegre
+223,2025-11-30,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Ana,Belo Horizonte
+224,2025-07-25,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Rio de Janeiro
+225,2025-08-18,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Belo Horizonte
+226,2025-08-28,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Porto Alegre
+227,2025-04-11,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Eduardo,Rio de Janeiro
+228,2025-12-03,Webcam HD,Eletrônicos,3,180.0,540.0,Diana,São Paulo
+229,2025-11-23,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,Porto Alegre
+230,2026-01-25,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Eduardo,Rio de Janeiro
+231,2025-09-29,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,São Paulo
+232,2025-07-19,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Curitiba
+233,2025-08-10,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,São Paulo
+234,2025-11-26,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Bruno,São Paulo
+235,2025-02-26,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,Curitiba
+236,2025-09-24,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Diana,Belo Horizonte
+237,2025-11-06,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Bruno,São Paulo
+238,2025-10-05,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Curitiba
+239,2025-05-31,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Belo Horizonte
+240,2025-05-16,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,São Paulo
+241,2025-11-30,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Belo Horizonte
+242,2025-10-24,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,Belo Horizonte
+243,2025-09-04,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Eduardo,Belo Horizonte
+244,2025-02-18,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,São Paulo
+245,2025-05-22,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Porto Alegre
+246,2025-10-23,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Curitiba
+247,2025-04-26,Headset RGB,Eletrônicos,2,250.0,500.0,Carlos,Rio de Janeiro
+248,2025-07-30,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Rio de Janeiro
+249,2025-12-25,Webcam HD,Eletrônicos,1,180.0,180.0,Bruno,Porto Alegre
+250,2026-02-02,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Curitiba
+251,2025-11-22,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,Porto Alegre
+252,2025-06-02,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,Rio de Janeiro
+253,2025-09-17,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,Rio de Janeiro
+254,2025-06-26,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Rio de Janeiro
+255,2025-06-08,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,Rio de Janeiro
+256,2025-04-20,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Belo Horizonte
+257,2025-06-16,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Belo Horizonte
+258,2025-04-06,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Porto Alegre
+259,2025-07-06,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,Belo Horizonte
+260,2025-11-09,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Porto Alegre
+261,2025-11-10,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Porto Alegre
+262,2026-02-01,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,São Paulo
+263,2025-12-11,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,Porto Alegre
+264,2025-03-22,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,Rio de Janeiro
+265,2025-08-16,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Porto Alegre
+266,2025-05-15,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,São Paulo
+267,2025-02-19,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Porto Alegre
+268,2025-11-21,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Porto Alegre
+269,2025-05-18,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Belo Horizonte
+270,2025-07-24,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Rio de Janeiro
+271,2025-08-18,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,São Paulo
+272,2025-04-10,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Belo Horizonte
+273,2025-05-22,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,Rio de Janeiro
+274,2026-01-31,Webcam HD,Eletrônicos,3,180.0,540.0,Diana,Belo Horizonte
+275,2025-02-16,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Rio de Janeiro
+276,2025-04-06,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,Porto Alegre
+277,2025-06-18,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,São Paulo
+278,2025-05-09,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Rio de Janeiro
+279,2025-05-23,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Carlos,Porto Alegre
+280,2026-01-11,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Curitiba
+281,2026-01-09,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Porto Alegre
+282,2025-11-07,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,Belo Horizonte
+283,2025-06-18,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Curitiba
+284,2026-01-26,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,São Paulo
+285,2026-01-15,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Belo Horizonte
+286,2025-06-05,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Bruno,Rio de Janeiro
+287,2025-03-02,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,São Paulo
+288,2025-08-09,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,Porto Alegre
+289,2025-08-05,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Rio de Janeiro
+290,2025-04-01,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Eduardo,São Paulo
+291,2025-04-30,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,Curitiba
+292,2025-03-09,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,Curitiba
+293,2025-11-10,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Belo Horizonte
+294,2025-03-05,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,Belo Horizonte
+295,2025-12-07,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,Rio de Janeiro
+296,2025-07-18,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Belo Horizonte
+297,2025-05-14,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Eduardo,São Paulo
+298,2025-07-14,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,Belo Horizonte
+299,2025-06-01,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Rio de Janeiro
+300,2025-11-19,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Belo Horizonte
+301,2025-05-03,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Curitiba
+302,2025-09-06,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,São Paulo
+303,2025-10-07,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,Rio de Janeiro
+304,2025-05-01,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,Belo Horizonte
+305,2025-04-07,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Curitiba
+306,2025-03-24,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,Rio de Janeiro
+307,2025-12-16,Webcam HD,Eletrônicos,3,180.0,540.0,Ana,Porto Alegre
+308,2026-01-30,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Curitiba
+309,2025-09-05,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,Porto Alegre
+310,2025-04-28,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Porto Alegre
+311,2025-11-23,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,São Paulo
+312,2025-07-24,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Curitiba
+313,2025-05-12,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Rio de Janeiro
+314,2025-04-25,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,Porto Alegre
+315,2025-07-25,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,Curitiba
+316,2025-08-03,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Bruno,Belo Horizonte
+317,2025-02-19,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,São Paulo
+318,2025-03-03,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Porto Alegre
+319,2026-02-03,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,Rio de Janeiro
+320,2026-01-21,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,Rio de Janeiro
+321,2025-02-23,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,Belo Horizonte
+322,2025-04-10,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Belo Horizonte
+323,2025-11-23,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Bruno,Porto Alegre
+324,2025-12-10,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,Porto Alegre
+325,2025-10-14,Headset RGB,Eletrônicos,2,250.0,500.0,Carlos,Porto Alegre
+326,2025-03-01,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Belo Horizonte
+327,2025-06-27,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,Curitiba
+328,2025-04-06,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,Belo Horizonte
+329,2025-10-22,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,Porto Alegre
+330,2025-09-23,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Porto Alegre
+331,2025-10-17,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Rio de Janeiro
+332,2025-07-08,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,São Paulo
+333,2025-03-26,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Bruno,São Paulo
+334,2026-01-20,Webcam HD,Eletrônicos,1,180.0,180.0,Bruno,Rio de Janeiro
+335,2025-03-24,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Belo Horizonte
+336,2025-02-20,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Rio de Janeiro
+337,2025-12-30,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,Curitiba
+338,2026-01-20,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Curitiba
+339,2025-10-04,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Belo Horizonte
+340,2026-01-30,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Belo Horizonte
+341,2025-09-19,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,São Paulo
+342,2025-10-26,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Curitiba
+343,2025-03-18,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Eduardo,Porto Alegre
+344,2025-06-29,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,São Paulo
+345,2025-08-17,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Belo Horizonte
+346,2025-09-29,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Belo Horizonte
+347,2025-06-30,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,São Paulo
+348,2026-01-22,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Belo Horizonte
+349,2025-06-28,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,Belo Horizonte
+350,2025-07-05,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Eduardo,Belo Horizonte
+351,2025-07-17,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,Porto Alegre
+352,2025-11-25,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Rio de Janeiro
+353,2025-05-31,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Curitiba
+354,2025-08-30,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Rio de Janeiro
+355,2025-04-02,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,São Paulo
+356,2025-07-17,Webcam HD,Eletrônicos,1,180.0,180.0,Carlos,Belo Horizonte
+357,2025-11-26,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Belo Horizonte
+358,2025-02-21,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Carlos,Porto Alegre
+359,2025-04-10,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,São Paulo
+360,2025-11-27,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Curitiba
+361,2025-02-28,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Curitiba
+362,2025-06-26,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Ana,Rio de Janeiro
+363,2025-06-04,Webcam HD,Eletrônicos,3,180.0,540.0,Diana,Belo Horizonte
+364,2025-08-19,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Porto Alegre
+365,2025-10-29,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Eduardo,Belo Horizonte
+366,2025-10-19,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Carlos,São Paulo
+367,2026-01-25,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Porto Alegre
+368,2026-01-25,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,São Paulo
+369,2025-11-25,Webcam HD,Eletrônicos,1,180.0,180.0,Carlos,São Paulo
+370,2025-05-10,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Eduardo,São Paulo
+371,2025-12-11,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Bruno,Curitiba
+372,2025-05-31,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,Curitiba
+373,2025-10-15,Headset RGB,Eletrônicos,1,250.0,250.0,Diana,Belo Horizonte
+374,2025-12-05,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,Porto Alegre
+375,2025-08-24,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Curitiba
+376,2025-03-06,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Porto Alegre
+377,2025-12-30,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Ana,Curitiba
+378,2025-09-03,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,São Paulo
+379,2025-11-11,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Curitiba
+380,2026-01-24,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Belo Horizonte
+381,2025-12-02,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Curitiba
+382,2025-06-23,Headset RGB,Eletrônicos,1,250.0,250.0,Eduardo,Belo Horizonte
+383,2025-04-17,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Eduardo,São Paulo
+384,2025-03-11,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Belo Horizonte
+385,2025-11-06,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,São Paulo
+386,2025-12-16,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,Belo Horizonte
+387,2025-02-12,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Curitiba
+388,2025-12-26,Webcam HD,Eletrônicos,1,180.0,180.0,Carlos,São Paulo
+389,2025-08-08,Webcam HD,Eletrônicos,3,180.0,540.0,Diana,Porto Alegre
+390,2025-11-29,Headset RGB,Eletrônicos,1,250.0,250.0,Eduardo,Belo Horizonte
+391,2025-06-05,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,Porto Alegre
+392,2025-06-04,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,São Paulo
+393,2025-09-13,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Ana,Curitiba
+394,2025-08-06,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Rio de Janeiro
+395,2025-11-23,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Carlos,Belo Horizonte
+396,2025-05-17,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,São Paulo
+397,2025-12-03,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,São Paulo
+398,2025-05-27,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,Belo Horizonte
+399,2025-06-20,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Porto Alegre
+400,2025-10-24,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,Curitiba
+401,2025-10-28,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Porto Alegre
+402,2025-02-20,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,Belo Horizonte
+403,2025-09-10,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Ana,Curitiba
+404,2025-06-01,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Belo Horizonte
+405,2025-06-08,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,São Paulo
+406,2025-09-06,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Curitiba
+407,2025-06-23,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,São Paulo
+408,2026-01-07,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Curitiba
+409,2025-11-22,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Rio de Janeiro
+410,2025-08-14,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Bruno,Belo Horizonte
+411,2025-06-29,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Rio de Janeiro
+412,2025-03-11,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Belo Horizonte
+413,2025-09-13,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Carlos,Porto Alegre
+414,2025-09-12,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Curitiba
+415,2025-02-15,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Eduardo,Belo Horizonte
+416,2025-05-19,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,Rio de Janeiro
+417,2026-01-20,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,Rio de Janeiro
+418,2025-03-11,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,Belo Horizonte
+419,2025-04-23,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Porto Alegre
+420,2025-11-29,Webcam HD,Eletrônicos,1,180.0,180.0,Eduardo,Curitiba
+421,2025-04-12,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,São Paulo
+422,2025-12-06,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,São Paulo
+423,2026-01-17,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Belo Horizonte
+424,2025-11-24,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,Curitiba
+425,2025-07-07,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,Belo Horizonte
+426,2026-01-20,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,São Paulo
+427,2025-09-11,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Curitiba
+428,2025-07-23,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,Porto Alegre
+429,2025-04-29,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,São Paulo
+430,2025-03-23,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Curitiba
+431,2025-10-04,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,Porto Alegre
+432,2025-08-17,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Curitiba
+433,2026-01-26,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,São Paulo
+434,2025-03-20,Monitor 24pol,Eletrônicos,1,890.0,890.0,Ana,São Paulo
+435,2025-03-12,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,Belo Horizonte
+436,2025-03-17,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,Belo Horizonte
+437,2025-09-13,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Rio de Janeiro
+438,2026-01-26,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Porto Alegre
+439,2025-02-15,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,São Paulo
+440,2025-12-27,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Bruno,Rio de Janeiro
+441,2025-02-19,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Bruno,São Paulo
+442,2025-07-04,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,São Paulo
+443,2025-08-04,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,Curitiba
+444,2026-02-11,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Ana,Rio de Janeiro
+445,2025-08-18,Webcam HD,Eletrônicos,3,180.0,540.0,Ana,Porto Alegre
+446,2025-05-04,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,Rio de Janeiro
+447,2026-01-01,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Belo Horizonte
+448,2025-04-05,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,São Paulo
+449,2025-12-06,Headset RGB,Eletrônicos,2,250.0,500.0,Carlos,Porto Alegre
+450,2025-09-14,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Rio de Janeiro
+451,2025-08-07,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Rio de Janeiro
+452,2025-02-28,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Eduardo,Curitiba
+453,2026-01-15,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,São Paulo
+454,2025-04-27,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,São Paulo
+455,2025-05-30,Headset RGB,Eletrônicos,1,250.0,250.0,Eduardo,Rio de Janeiro
+456,2025-10-04,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Rio de Janeiro
+457,2025-09-10,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Rio de Janeiro
+458,2025-02-20,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Curitiba
+459,2025-04-15,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Curitiba
+460,2025-11-09,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Diana,Porto Alegre
+461,2025-06-24,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,Belo Horizonte
+462,2025-09-13,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,Curitiba
+463,2025-08-30,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,Rio de Janeiro
+464,2025-04-24,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Rio de Janeiro
+465,2025-08-09,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,Belo Horizonte
+466,2025-03-23,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Belo Horizonte
+467,2025-02-17,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,Curitiba
+468,2025-06-30,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,Porto Alegre
+469,2025-09-20,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,Curitiba
+470,2025-09-01,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,São Paulo
+471,2025-11-03,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,Rio de Janeiro
+472,2025-05-14,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Curitiba
+473,2025-02-15,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,São Paulo
+474,2025-10-19,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,Belo Horizonte
+475,2026-01-28,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Rio de Janeiro
+476,2025-12-07,Webcam HD,Eletrônicos,1,180.0,180.0,Carlos,Porto Alegre
+477,2025-11-16,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Belo Horizonte
+478,2025-07-11,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,São Paulo
+479,2025-03-09,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,São Paulo
+480,2025-08-23,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Carlos,Belo Horizonte
+481,2026-01-10,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,São Paulo
+482,2025-12-11,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,São Paulo
+483,2026-01-27,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Eduardo,Porto Alegre
+484,2025-02-15,Headset RGB,Eletrônicos,1,250.0,250.0,Eduardo,São Paulo
+485,2025-08-23,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,Rio de Janeiro
+486,2025-07-22,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Curitiba
+487,2025-05-10,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,São Paulo
+488,2025-05-01,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Bruno,Curitiba
+489,2025-08-09,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Belo Horizonte
+490,2026-01-03,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,Porto Alegre
+491,2025-09-10,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,Curitiba
+492,2025-11-19,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Bruno,Rio de Janeiro
+493,2026-01-29,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,São Paulo
+494,2025-06-01,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,São Paulo
+495,2025-02-28,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,Belo Horizonte
+496,2025-11-30,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Curitiba
+497,2025-12-07,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Porto Alegre
+498,2026-01-06,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Porto Alegre
+499,2026-01-06,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Belo Horizonte
+500,2026-02-10,Headset RGB,Eletrônicos,3,250.0,750.0,Bruno,Rio de Janeiro
+501,2025-12-15,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Rio de Janeiro
+502,2025-06-15,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Rio de Janeiro
+503,2025-07-17,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Eduardo,São Paulo
+504,2025-06-13,Webcam HD,Eletrônicos,1,180.0,180.0,Eduardo,Rio de Janeiro
+505,2025-03-31,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Porto Alegre
+506,2025-11-25,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Rio de Janeiro
+507,2025-08-07,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Carlos,Porto Alegre
+508,2025-07-13,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Diana,Belo Horizonte
+509,2025-10-22,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Porto Alegre
+510,2025-07-29,Webcam HD,Eletrônicos,1,180.0,180.0,Bruno,Curitiba
+511,2025-06-30,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Ana,Curitiba
+512,2026-01-27,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,Porto Alegre
+513,2025-11-23,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Porto Alegre
+514,2025-08-15,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Eduardo,Belo Horizonte
+515,2025-05-27,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,Rio de Janeiro
+516,2025-08-22,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Belo Horizonte
+517,2025-06-17,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,São Paulo
+518,2025-04-15,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,São Paulo
+519,2025-04-11,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Ana,Rio de Janeiro
+520,2025-07-05,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Bruno,Porto Alegre
+521,2025-07-03,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Belo Horizonte
+522,2025-11-19,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Eduardo,São Paulo
+523,2025-08-29,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,São Paulo
+524,2025-05-16,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Ana,Curitiba
+525,2025-08-28,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Rio de Janeiro
+526,2025-08-03,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,Rio de Janeiro
+527,2025-05-17,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Porto Alegre
+528,2025-11-07,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,Belo Horizonte
+529,2026-01-25,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,Curitiba
+530,2025-06-15,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,São Paulo
+531,2025-09-27,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,São Paulo
+532,2025-09-20,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Curitiba
+533,2025-03-08,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Bruno,Belo Horizonte
+534,2025-07-09,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Porto Alegre
+535,2025-08-28,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Belo Horizonte
+536,2025-07-03,Headset RGB,Eletrônicos,1,250.0,250.0,Diana,Porto Alegre
+537,2025-10-23,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,Porto Alegre
+538,2025-05-11,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Curitiba
+539,2025-09-16,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Belo Horizonte
+540,2025-06-26,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Belo Horizonte
+541,2025-07-08,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Curitiba
+542,2025-03-28,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Eduardo,Belo Horizonte
+543,2025-06-10,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Rio de Janeiro
+544,2025-11-25,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Porto Alegre
+545,2025-05-08,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Rio de Janeiro
+546,2026-01-26,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Ana,Porto Alegre
+547,2025-05-20,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Curitiba
+548,2025-04-24,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,Belo Horizonte
+549,2025-03-28,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,Curitiba
+550,2025-02-26,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Rio de Janeiro
+551,2025-09-08,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Porto Alegre
+552,2025-09-26,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Rio de Janeiro
+553,2025-11-03,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Diana,Rio de Janeiro
+554,2025-02-22,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Carlos,Curitiba
+555,2025-08-18,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Porto Alegre
+556,2025-08-22,Webcam HD,Eletrônicos,1,180.0,180.0,Bruno,Belo Horizonte
+557,2025-09-17,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,Curitiba
+558,2025-06-22,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,São Paulo
+559,2025-07-07,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Eduardo,Curitiba
+560,2025-08-24,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Rio de Janeiro
+561,2025-02-28,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Porto Alegre
+562,2026-01-29,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Porto Alegre
+563,2025-10-08,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Ana,Curitiba
+564,2025-04-16,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,Porto Alegre
+565,2025-11-19,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,Curitiba
+566,2025-08-27,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Rio de Janeiro
+567,2026-01-25,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,Belo Horizonte
+568,2025-04-13,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Porto Alegre
+569,2025-05-18,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,Rio de Janeiro
+570,2025-12-21,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Belo Horizonte
+571,2025-11-13,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,São Paulo
+572,2025-12-24,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,São Paulo
+573,2025-06-24,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Rio de Janeiro
+574,2025-07-13,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,São Paulo
+575,2026-02-08,Headset RGB,Eletrônicos,2,250.0,500.0,Carlos,Curitiba
+576,2025-03-25,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,Curitiba
+577,2025-04-29,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Bruno,Belo Horizonte
+578,2026-01-16,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Curitiba
+579,2025-03-10,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,São Paulo
+580,2025-02-24,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Belo Horizonte
+581,2025-05-09,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,Belo Horizonte
+582,2025-11-15,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,Curitiba
+583,2025-08-13,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,São Paulo
+584,2025-03-15,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,Belo Horizonte
+585,2025-04-08,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Porto Alegre
+586,2025-04-13,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,Curitiba
+587,2026-01-23,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Curitiba
+588,2025-12-31,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Ana,Porto Alegre
+589,2025-11-28,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Curitiba
+590,2025-02-26,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Ana,São Paulo
+591,2025-09-03,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Curitiba
+592,2025-03-04,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,Porto Alegre
+593,2025-07-30,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Rio de Janeiro
+594,2025-02-24,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Bruno,Curitiba
+595,2026-01-31,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Rio de Janeiro
+596,2025-04-15,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,São Paulo
+597,2025-11-24,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Porto Alegre
+598,2025-03-20,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Belo Horizonte
+599,2025-07-06,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Rio de Janeiro
+600,2025-12-13,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,Porto Alegre
+601,2025-03-03,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Belo Horizonte
+602,2025-05-01,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,Porto Alegre
+603,2026-01-17,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,Curitiba
+604,2025-06-11,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Belo Horizonte
+605,2025-12-06,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Curitiba
+606,2025-11-13,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,Belo Horizonte
+607,2025-12-30,Webcam HD,Eletrônicos,3,180.0,540.0,Ana,Rio de Janeiro
+608,2025-02-19,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Rio de Janeiro
+609,2026-01-10,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,Rio de Janeiro
+610,2025-04-06,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Rio de Janeiro
+611,2025-08-31,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Rio de Janeiro
+612,2025-07-29,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Diana,Curitiba
+613,2025-04-12,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Eduardo,Rio de Janeiro
+614,2026-01-24,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Rio de Janeiro
+615,2025-10-08,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,Rio de Janeiro
+616,2025-12-01,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,Belo Horizonte
+617,2025-11-06,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Curitiba
+618,2025-04-30,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Rio de Janeiro
+619,2025-07-23,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Curitiba
+620,2025-08-20,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Rio de Janeiro
+621,2025-05-29,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Ana,Porto Alegre
+622,2025-02-13,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Curitiba
+623,2025-02-18,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Porto Alegre
+624,2025-11-13,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,São Paulo
+625,2026-01-30,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Bruno,Curitiba
+626,2025-09-16,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Rio de Janeiro
+627,2025-03-30,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Bruno,Rio de Janeiro
+628,2025-06-30,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Rio de Janeiro
+629,2025-12-06,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Belo Horizonte
+630,2025-05-18,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,São Paulo
+631,2026-01-19,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,São Paulo
+632,2025-03-26,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,Belo Horizonte
+633,2025-04-12,Monitor 24pol,Eletrônicos,1,890.0,890.0,Ana,Belo Horizonte
+634,2025-12-04,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Curitiba
+635,2025-07-14,Webcam HD,Eletrônicos,1,180.0,180.0,Bruno,Porto Alegre
+636,2025-07-20,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Porto Alegre
+637,2025-05-20,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,Belo Horizonte
+638,2025-03-30,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Carlos,Porto Alegre
+639,2025-08-22,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,Rio de Janeiro
+640,2025-04-29,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,Belo Horizonte
+641,2025-09-05,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Curitiba
+642,2025-02-17,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,Curitiba
+643,2025-08-13,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Curitiba
+644,2025-06-01,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,Rio de Janeiro
+645,2025-03-25,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Curitiba
+646,2025-06-26,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,Curitiba
+647,2025-11-05,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Rio de Janeiro
+648,2025-03-09,Headset RGB,Eletrônicos,2,250.0,500.0,Carlos,São Paulo
+649,2025-06-20,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Curitiba
+650,2026-01-25,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Rio de Janeiro
+651,2025-04-19,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,São Paulo
+652,2025-10-21,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,São Paulo
+653,2025-02-21,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Rio de Janeiro
+654,2025-10-21,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,Rio de Janeiro
+655,2025-05-25,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,Curitiba
+656,2025-11-21,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Porto Alegre
+657,2025-03-06,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Ana,Porto Alegre
+658,2025-03-05,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Curitiba
+659,2025-07-07,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,Belo Horizonte
+660,2025-06-26,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,Belo Horizonte
+661,2025-06-30,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,Rio de Janeiro
+662,2025-10-03,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Rio de Janeiro
+663,2025-07-09,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Rio de Janeiro
+664,2025-12-16,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Bruno,São Paulo
+665,2026-02-07,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Rio de Janeiro
+666,2025-04-18,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Ana,Curitiba
+667,2025-06-22,Headset RGB,Eletrônicos,2,250.0,500.0,Carlos,Curitiba
+668,2025-09-20,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,Porto Alegre
+669,2025-03-25,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,Curitiba
+670,2025-05-12,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,Rio de Janeiro
+671,2025-07-09,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,Curitiba
+672,2025-08-20,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Rio de Janeiro
+673,2025-04-08,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Belo Horizonte
+674,2025-07-12,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Porto Alegre
+675,2025-08-01,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,Belo Horizonte
+676,2026-01-03,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Porto Alegre
+677,2025-05-06,Headset RGB,Eletrônicos,1,250.0,250.0,Eduardo,São Paulo
+678,2025-04-29,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Porto Alegre
+679,2025-09-02,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,São Paulo
+680,2025-12-04,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Curitiba
+681,2025-11-19,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,São Paulo
+682,2025-09-20,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Belo Horizonte
+683,2026-01-21,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Ana,Rio de Janeiro
+684,2025-05-24,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,São Paulo
+685,2025-02-27,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Belo Horizonte
+686,2025-03-28,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,Belo Horizonte
+687,2025-07-02,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,São Paulo
+688,2025-11-20,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Curitiba
+689,2026-02-11,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,Curitiba
+690,2026-01-24,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,Belo Horizonte
+691,2025-08-05,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Curitiba
+692,2025-10-13,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Rio de Janeiro
+693,2025-09-14,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Curitiba
+694,2025-07-20,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,Porto Alegre
+695,2026-01-06,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,São Paulo
+696,2025-06-28,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,São Paulo
+697,2026-01-01,Webcam HD,Eletrônicos,3,180.0,540.0,Ana,Curitiba
+698,2025-07-22,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Eduardo,Curitiba
+699,2025-06-01,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,Rio de Janeiro
+700,2026-01-06,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,Porto Alegre
+701,2025-12-07,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Curitiba
+702,2026-02-06,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,Curitiba
+703,2025-12-25,Webcam HD,Eletrônicos,1,180.0,180.0,Ana,Porto Alegre
+704,2026-01-21,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,Rio de Janeiro
+705,2025-03-03,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Rio de Janeiro
+706,2026-01-09,Webcam HD,Eletrônicos,1,180.0,180.0,Eduardo,Porto Alegre
+707,2025-05-26,Webcam HD,Eletrônicos,1,180.0,180.0,Eduardo,Rio de Janeiro
+708,2025-06-30,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,Porto Alegre
+709,2025-06-02,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,Curitiba
+710,2026-01-29,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,Porto Alegre
+711,2025-07-06,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,Curitiba
+712,2025-04-26,Webcam HD,Eletrônicos,2,180.0,360.0,Carlos,Porto Alegre
+713,2025-05-31,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,São Paulo
+714,2025-02-13,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,São Paulo
+715,2025-02-18,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Bruno,Belo Horizonte
+716,2026-01-04,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,São Paulo
+717,2025-02-25,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Diana,Curitiba
+718,2025-08-20,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Porto Alegre
+719,2025-05-15,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Belo Horizonte
+720,2025-10-10,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,Rio de Janeiro
+721,2025-06-01,Webcam HD,Eletrônicos,1,180.0,180.0,Eduardo,Belo Horizonte
+722,2025-09-28,Webcam HD,Eletrônicos,3,180.0,540.0,Ana,Curitiba
+723,2025-09-18,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Belo Horizonte
+724,2026-01-12,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Belo Horizonte
+725,2026-01-07,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Eduardo,Porto Alegre
+726,2025-05-24,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Belo Horizonte
+727,2026-01-04,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,Rio de Janeiro
+728,2025-03-10,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,Porto Alegre
+729,2026-01-05,Headset RGB,Eletrônicos,1,250.0,250.0,Eduardo,São Paulo
+730,2025-06-03,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,São Paulo
+731,2025-10-12,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Curitiba
+732,2025-06-02,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Belo Horizonte
+733,2025-02-24,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Rio de Janeiro
+734,2025-11-12,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Bruno,Rio de Janeiro
+735,2025-07-28,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Rio de Janeiro
+736,2025-05-20,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,Curitiba
+737,2025-12-09,Headset RGB,Eletrônicos,3,250.0,750.0,Bruno,São Paulo
+738,2025-04-30,Webcam HD,Eletrônicos,1,180.0,180.0,Ana,Curitiba
+739,2025-12-18,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,São Paulo
+740,2026-01-05,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,Porto Alegre
+741,2025-07-31,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,São Paulo
+742,2025-11-14,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,Porto Alegre
+743,2025-08-12,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,Curitiba
+744,2025-04-02,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Curitiba
+745,2025-08-13,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,Belo Horizonte
+746,2025-06-29,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Rio de Janeiro
+747,2025-04-07,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Curitiba
+748,2025-04-25,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Belo Horizonte
+749,2025-04-09,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Belo Horizonte
+750,2025-11-09,Headset RGB,Eletrônicos,2,250.0,500.0,Carlos,Belo Horizonte
+751,2025-02-25,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Belo Horizonte
+752,2025-04-10,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,Curitiba
+753,2025-07-31,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Carlos,Rio de Janeiro
+754,2025-07-04,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,Porto Alegre
+755,2025-02-13,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,Rio de Janeiro
+756,2025-02-17,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Eduardo,Belo Horizonte
+757,2025-09-10,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Porto Alegre
+758,2025-03-27,Webcam HD,Eletrônicos,1,180.0,180.0,Bruno,Rio de Janeiro
+759,2025-07-01,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Porto Alegre
+760,2025-08-22,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,São Paulo
+761,2025-05-03,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Rio de Janeiro
+762,2025-05-25,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Belo Horizonte
+763,2025-12-19,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,Rio de Janeiro
+764,2025-08-15,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,São Paulo
+765,2025-08-10,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Curitiba
+766,2025-10-20,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,São Paulo
+767,2026-01-02,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Rio de Janeiro
+768,2025-06-08,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Rio de Janeiro
+769,2025-02-16,Webcam HD,Eletrônicos,1,180.0,180.0,Carlos,Rio de Janeiro
+770,2025-12-16,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,Belo Horizonte
+771,2025-12-26,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Porto Alegre
+772,2025-03-06,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Porto Alegre
+773,2025-08-14,Webcam HD,Eletrônicos,2,180.0,360.0,Carlos,São Paulo
+774,2025-07-30,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,Curitiba
+775,2025-10-28,Headset RGB,Eletrônicos,3,250.0,750.0,Bruno,Rio de Janeiro
+776,2025-08-06,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Rio de Janeiro
+777,2025-06-14,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,Curitiba
+778,2025-07-30,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,Belo Horizonte
+779,2025-07-15,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,São Paulo
+780,2025-07-15,Webcam HD,Eletrônicos,3,180.0,540.0,Ana,Porto Alegre
+781,2025-04-21,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,Curitiba
+782,2025-10-01,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Rio de Janeiro
+783,2025-08-31,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,Porto Alegre
+784,2025-09-09,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Curitiba
+785,2025-09-06,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Carlos,Belo Horizonte
+786,2025-03-04,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,Curitiba
+787,2025-02-22,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Belo Horizonte
+788,2026-01-27,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Belo Horizonte
+789,2025-11-23,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,Belo Horizonte
+790,2025-05-29,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,Belo Horizonte
+791,2025-10-27,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Belo Horizonte
+792,2026-02-02,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,São Paulo
+793,2025-04-22,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Porto Alegre
+794,2025-03-30,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Rio de Janeiro
+795,2025-05-07,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Porto Alegre
+796,2025-08-04,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Bruno,Rio de Janeiro
+797,2026-02-02,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Porto Alegre
+798,2025-05-12,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Eduardo,Belo Horizonte
+799,2025-07-17,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Belo Horizonte
+800,2025-05-29,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,São Paulo
+801,2025-12-07,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Curitiba
+802,2025-04-30,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,Belo Horizonte
+803,2025-03-18,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,São Paulo
+804,2025-04-21,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Belo Horizonte
+805,2025-09-08,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Ana,Curitiba
+806,2025-06-27,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,Rio de Janeiro
+807,2026-02-02,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,Porto Alegre
+808,2025-05-20,Headset RGB,Eletrônicos,1,250.0,250.0,Diana,Belo Horizonte
+809,2025-03-01,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Rio de Janeiro
+810,2025-03-23,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,São Paulo
+811,2025-07-29,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Belo Horizonte
+812,2025-09-07,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Rio de Janeiro
+813,2025-08-08,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,Belo Horizonte
+814,2025-03-28,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Porto Alegre
+815,2026-01-09,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Curitiba
+816,2026-01-06,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,São Paulo
+817,2026-01-27,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Belo Horizonte
+818,2025-07-10,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,Curitiba
+819,2025-04-23,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,São Paulo
+820,2025-10-15,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Belo Horizonte
+821,2025-04-12,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Diana,Curitiba
+822,2026-01-08,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Belo Horizonte
+823,2025-05-02,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Belo Horizonte
+824,2025-12-31,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Belo Horizonte
+825,2026-01-08,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Porto Alegre
+826,2025-02-21,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Ana,Rio de Janeiro
+827,2025-08-10,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,Porto Alegre
+828,2025-04-04,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,Rio de Janeiro
+829,2026-01-25,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,Curitiba
+830,2025-10-16,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,São Paulo
+831,2025-10-25,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Rio de Janeiro
+832,2025-12-05,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,Porto Alegre
+833,2025-04-26,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,Curitiba
+834,2025-08-04,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,Belo Horizonte
+835,2025-12-20,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,São Paulo
+836,2025-04-28,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,Curitiba
+837,2025-12-04,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,Rio de Janeiro
+838,2026-01-12,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Porto Alegre
+839,2025-12-24,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Porto Alegre
+840,2026-01-13,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,São Paulo
+841,2025-11-30,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Belo Horizonte
+842,2025-03-02,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,São Paulo
+843,2025-07-06,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Rio de Janeiro
+844,2025-11-21,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,São Paulo
+845,2025-12-24,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Porto Alegre
+846,2025-05-21,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Ana,São Paulo
+847,2025-06-10,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,Rio de Janeiro
+848,2025-05-12,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,São Paulo
+849,2025-05-15,Webcam HD,Eletrônicos,1,180.0,180.0,Bruno,Porto Alegre
+850,2025-06-05,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Diana,São Paulo
+851,2025-09-14,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Eduardo,São Paulo
+852,2025-03-31,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,Belo Horizonte
+853,2025-03-27,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Curitiba
+854,2025-05-20,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,Porto Alegre
+855,2025-09-21,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Belo Horizonte
+856,2025-08-23,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Belo Horizonte
+857,2025-06-17,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Belo Horizonte
+858,2025-12-20,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Porto Alegre
+859,2025-11-25,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,São Paulo
+860,2025-03-02,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,São Paulo
+861,2025-06-20,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,Belo Horizonte
+862,2026-01-05,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Belo Horizonte
+863,2025-06-18,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,São Paulo
+864,2025-05-07,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Rio de Janeiro
+865,2026-01-31,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,Belo Horizonte
+866,2025-06-02,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,Curitiba
+867,2025-05-31,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Porto Alegre
+868,2025-11-11,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,São Paulo
+869,2025-04-02,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Belo Horizonte
+870,2025-06-01,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Belo Horizonte
+871,2025-08-09,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,São Paulo
+872,2025-05-08,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,Rio de Janeiro
+873,2025-07-13,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Bruno,Belo Horizonte
+874,2025-05-19,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,Rio de Janeiro
+875,2025-05-19,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Bruno,Belo Horizonte
+876,2025-10-25,Headset RGB,Eletrônicos,1,250.0,250.0,Diana,Curitiba
+877,2025-10-10,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,Curitiba
+878,2025-12-13,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,São Paulo
+879,2026-01-07,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,Curitiba
+880,2025-08-04,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,São Paulo
+881,2025-09-13,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,São Paulo
+882,2025-03-15,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Porto Alegre
+883,2025-09-23,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,Porto Alegre
+884,2026-02-08,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Eduardo,Belo Horizonte
+885,2025-02-28,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,Belo Horizonte
+886,2025-08-07,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Porto Alegre
+887,2025-04-29,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Porto Alegre
+888,2025-12-09,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,Curitiba
+889,2025-03-12,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,Porto Alegre
+890,2025-10-30,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,São Paulo
+891,2025-12-22,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Ana,Porto Alegre
+892,2025-02-27,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,Belo Horizonte
+893,2025-06-26,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Rio de Janeiro
+894,2025-04-13,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,São Paulo
+895,2025-05-01,Webcam HD,Eletrônicos,1,180.0,180.0,Eduardo,São Paulo
+896,2025-07-05,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Porto Alegre
+897,2025-11-08,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Curitiba
+898,2025-11-13,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Belo Horizonte
+899,2025-07-06,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,São Paulo
+900,2025-10-19,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Curitiba
+901,2025-04-06,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Rio de Janeiro
+902,2025-08-31,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Curitiba
+903,2025-09-05,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Curitiba
+904,2025-04-09,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,São Paulo
+905,2025-06-16,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Diana,Rio de Janeiro
+906,2025-03-25,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Bruno,São Paulo
+907,2025-05-09,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Bruno,Curitiba
+908,2025-04-21,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Ana,Porto Alegre
+909,2025-03-07,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,Curitiba
+910,2025-02-23,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Bruno,Porto Alegre
+911,2025-03-16,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Rio de Janeiro
+912,2025-03-18,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,Rio de Janeiro
+913,2025-04-20,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,Curitiba
+914,2025-09-23,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Rio de Janeiro
+915,2025-06-22,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Curitiba
+916,2025-09-28,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Curitiba
+917,2025-08-18,Headset RGB,Eletrônicos,3,250.0,750.0,Bruno,Rio de Janeiro
+918,2025-07-04,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,Curitiba
+919,2025-03-17,Webcam HD,Eletrônicos,3,180.0,540.0,Diana,Rio de Janeiro
+920,2025-07-01,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,São Paulo
+921,2026-02-11,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,Curitiba
+922,2025-12-11,Headset RGB,Eletrônicos,1,250.0,250.0,Eduardo,Porto Alegre
+923,2026-01-10,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,Belo Horizonte
+924,2025-12-21,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,São Paulo
+925,2025-11-14,Monitor 24pol,Eletrônicos,1,890.0,890.0,Ana,Belo Horizonte
+926,2025-06-03,Webcam HD,Eletrônicos,2,180.0,360.0,Carlos,Porto Alegre
+927,2026-01-23,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Rio de Janeiro
+928,2025-09-26,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Curitiba
+929,2025-07-28,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,São Paulo
+930,2025-10-20,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Curitiba
+931,2025-07-20,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Eduardo,Curitiba
+932,2025-09-15,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Eduardo,São Paulo
+933,2026-01-03,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,Porto Alegre
+934,2025-10-18,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,Belo Horizonte
+935,2025-12-21,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,São Paulo
+936,2025-06-10,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Belo Horizonte
+937,2025-02-15,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Porto Alegre
+938,2025-03-17,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,Curitiba
+939,2025-03-01,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Curitiba
+940,2025-04-08,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Belo Horizonte
+941,2025-10-05,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,São Paulo
+942,2025-12-21,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Rio de Janeiro
+943,2025-07-13,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Rio de Janeiro
+944,2025-07-02,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Belo Horizonte
+945,2025-11-20,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Eduardo,Porto Alegre
+946,2025-08-29,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Rio de Janeiro
+947,2025-04-01,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,Belo Horizonte
+948,2025-11-20,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,São Paulo
+949,2025-10-15,Headset RGB,Eletrônicos,2,250.0,500.0,Carlos,Belo Horizonte
+950,2025-06-21,Webcam HD,Eletrônicos,1,180.0,180.0,Ana,Rio de Janeiro
+951,2025-02-11,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Belo Horizonte
+952,2025-05-11,Headset RGB,Eletrônicos,3,250.0,750.0,Bruno,Rio de Janeiro
+953,2025-12-09,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Eduardo,São Paulo
+954,2025-05-05,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,Porto Alegre
+955,2026-01-04,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,Rio de Janeiro
+956,2026-01-12,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,São Paulo
+957,2025-03-16,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Carlos,Belo Horizonte
+958,2025-07-03,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Carlos,Belo Horizonte
+959,2025-07-01,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Belo Horizonte
+960,2026-01-08,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,São Paulo
+961,2025-02-19,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,São Paulo
+962,2025-05-14,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,Belo Horizonte
+963,2025-07-26,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,Belo Horizonte
+964,2026-01-20,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Bruno,São Paulo
+965,2025-03-13,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,Curitiba
+966,2026-01-22,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,São Paulo
+967,2025-05-24,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,Belo Horizonte
+968,2025-11-28,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Porto Alegre
+969,2025-09-26,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,Belo Horizonte
+970,2025-09-06,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Rio de Janeiro
+971,2025-04-17,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,Belo Horizonte
+972,2025-08-04,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,Belo Horizonte
+973,2025-04-16,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,Rio de Janeiro
+974,2025-05-20,Webcam HD,Eletrônicos,3,180.0,540.0,Ana,Porto Alegre
+975,2025-09-26,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Porto Alegre
+976,2025-08-10,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Rio de Janeiro
+977,2025-04-03,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Curitiba
+978,2025-06-24,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Rio de Janeiro
+979,2025-08-14,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Eduardo,Porto Alegre
+980,2025-05-03,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Ana,Belo Horizonte
+981,2026-01-27,Monitor 24pol,Eletrônicos,1,890.0,890.0,Ana,São Paulo
+982,2025-07-08,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Belo Horizonte
+983,2025-06-28,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,São Paulo
+984,2025-09-25,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,São Paulo
+985,2026-01-25,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Diana,Belo Horizonte
+986,2025-04-15,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Rio de Janeiro
+987,2025-11-21,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Porto Alegre
+988,2025-04-08,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,São Paulo
+989,2025-12-24,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Porto Alegre
+990,2025-08-12,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,Belo Horizonte
+991,2026-01-10,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,Curitiba
+992,2025-07-16,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Belo Horizonte
+993,2025-12-24,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Belo Horizonte
+994,2025-10-27,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,Rio de Janeiro
+995,2025-06-22,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Rio de Janeiro
+996,2025-09-26,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Ana,Rio de Janeiro
+997,2025-03-26,Webcam HD,Eletrônicos,3,180.0,540.0,Ana,São Paulo
+998,2025-05-16,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Curitiba
+999,2025-10-23,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,Curitiba
+1000,2025-09-12,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,São Paulo
+1001,2025-11-27,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Rio de Janeiro
+1002,2025-05-08,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,Curitiba
+1003,2026-01-15,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,Rio de Janeiro
+1004,2025-04-08,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Eduardo,Belo Horizonte
+1005,2025-10-29,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,Curitiba
+1006,2025-09-21,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,Porto Alegre
+1007,2025-09-08,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Carlos,Rio de Janeiro
+1008,2025-12-31,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Eduardo,São Paulo
+1009,2025-09-06,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,São Paulo
+1010,2025-04-11,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Bruno,Porto Alegre
+1011,2025-03-01,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Eduardo,Rio de Janeiro
+1012,2025-09-04,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Porto Alegre
+1013,2025-04-11,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,Belo Horizonte
+1014,2026-01-03,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Porto Alegre
+1015,2025-04-19,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,Rio de Janeiro
+1016,2025-10-05,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,Curitiba
+1017,2026-01-10,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,São Paulo
+1018,2025-03-08,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,Belo Horizonte
+1019,2026-01-08,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Curitiba
+1020,2025-08-20,Webcam HD,Eletrônicos,1,180.0,180.0,Carlos,Porto Alegre
+1021,2025-06-17,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,São Paulo
+1022,2025-08-22,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Rio de Janeiro
+1023,2025-10-16,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,Rio de Janeiro
+1024,2026-01-10,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Rio de Janeiro
+1025,2025-07-30,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Curitiba
+1026,2026-01-21,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Curitiba
+1027,2025-10-30,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,São Paulo
+1028,2025-10-16,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,Rio de Janeiro
+1029,2025-05-01,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Curitiba
+1030,2025-02-18,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,Belo Horizonte
+1031,2025-02-25,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,São Paulo
+1032,2025-12-06,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,Rio de Janeiro
+1033,2025-05-31,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Curitiba
+1034,2025-06-02,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,Curitiba
+1035,2025-06-06,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Curitiba
+1036,2025-06-01,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,São Paulo
+1037,2025-04-12,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,São Paulo
+1038,2026-02-09,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,São Paulo
+1039,2025-04-20,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,Porto Alegre
+1040,2026-02-04,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,São Paulo
+1041,2025-06-12,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Belo Horizonte
+1042,2026-01-13,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,Belo Horizonte
+1043,2025-08-28,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Belo Horizonte
+1044,2025-12-15,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Eduardo,Porto Alegre
+1045,2025-03-30,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Bruno,Curitiba
+1046,2025-07-21,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Rio de Janeiro
+1047,2025-12-25,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,Rio de Janeiro
+1048,2025-10-31,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Eduardo,Belo Horizonte
+1049,2025-02-12,Headset RGB,Eletrônicos,3,250.0,750.0,Bruno,Curitiba
+1050,2025-08-07,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Belo Horizonte
+1051,2025-08-29,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Bruno,Belo Horizonte
+1052,2025-05-02,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,Curitiba
+1053,2025-10-05,Monitor 24pol,Eletrônicos,1,890.0,890.0,Ana,Curitiba
+1054,2025-02-24,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,São Paulo
+1055,2025-06-14,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,Porto Alegre
+1056,2025-08-12,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,Porto Alegre
+1057,2025-05-05,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Rio de Janeiro
+1058,2025-02-12,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,Rio de Janeiro
+1059,2025-10-12,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Porto Alegre
+1060,2025-10-16,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Eduardo,Rio de Janeiro
+1061,2025-11-18,Headset RGB,Eletrônicos,1,250.0,250.0,Eduardo,Rio de Janeiro
+1062,2026-02-03,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,Rio de Janeiro
+1063,2025-12-27,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Porto Alegre
+1064,2025-10-23,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Porto Alegre
+1065,2025-10-31,Webcam HD,Eletrônicos,1,180.0,180.0,Carlos,Belo Horizonte
+1066,2025-08-04,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,Rio de Janeiro
+1067,2025-03-22,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Porto Alegre
+1068,2025-09-13,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Eduardo,São Paulo
+1069,2025-02-14,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Porto Alegre
+1070,2025-04-27,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Bruno,Rio de Janeiro
+1071,2025-04-21,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Rio de Janeiro
+1072,2025-02-28,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Curitiba
+1073,2025-05-28,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Belo Horizonte
+1074,2025-10-13,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Rio de Janeiro
+1075,2025-11-01,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Porto Alegre
+1076,2025-11-08,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Porto Alegre
+1077,2025-05-22,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Ana,Rio de Janeiro
+1078,2025-12-06,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Porto Alegre
+1079,2025-12-05,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,Rio de Janeiro
+1080,2026-01-08,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Curitiba
+1081,2025-09-11,Webcam HD,Eletrônicos,3,180.0,540.0,Ana,Curitiba
+1082,2025-04-10,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,São Paulo
+1083,2025-11-18,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,São Paulo
+1084,2025-05-16,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Curitiba
+1085,2025-12-04,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Curitiba
+1086,2025-03-30,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Porto Alegre
+1087,2025-04-08,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,São Paulo
+1088,2025-03-22,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Rio de Janeiro
+1089,2025-10-01,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Rio de Janeiro
+1090,2026-02-01,Webcam HD,Eletrônicos,1,180.0,180.0,Ana,Porto Alegre
+1091,2025-07-14,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Ana,Curitiba
+1092,2025-05-03,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Curitiba
+1093,2025-06-15,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Curitiba
+1094,2025-09-13,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,Rio de Janeiro
+1095,2025-03-25,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,Belo Horizonte
+1096,2025-09-26,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,São Paulo
+1097,2025-09-17,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Bruno,Belo Horizonte
+1098,2025-08-08,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Belo Horizonte
+1099,2025-10-07,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Bruno,Rio de Janeiro
+1100,2025-05-31,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,Curitiba
+1101,2025-05-21,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Eduardo,Porto Alegre
+1102,2025-10-05,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,Belo Horizonte
+1103,2025-07-22,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,Curitiba
+1104,2025-05-30,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,Rio de Janeiro
+1105,2025-08-20,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,São Paulo
+1106,2025-10-14,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,Porto Alegre
+1107,2025-08-17,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Curitiba
+1108,2025-10-23,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Curitiba
+1109,2025-07-02,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,São Paulo
+1110,2025-10-05,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Porto Alegre
+1111,2026-02-11,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Curitiba
+1112,2025-04-03,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Rio de Janeiro
+1113,2025-12-20,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Porto Alegre
+1114,2025-12-13,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Diana,Curitiba
+1115,2025-02-22,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Porto Alegre
+1116,2025-04-04,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,São Paulo
+1117,2025-04-23,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Porto Alegre
+1118,2025-03-09,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,Rio de Janeiro
+1119,2025-03-19,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,São Paulo
+1120,2025-04-29,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Porto Alegre
+1121,2025-10-10,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Porto Alegre
+1122,2025-12-21,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,Curitiba
+1123,2025-10-29,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Porto Alegre
+1124,2025-09-27,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Carlos,Rio de Janeiro
+1125,2025-06-19,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Eduardo,Porto Alegre
+1126,2026-01-03,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,Rio de Janeiro
+1127,2025-07-17,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Eduardo,Rio de Janeiro
+1128,2026-01-20,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Porto Alegre
+1129,2025-11-29,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,São Paulo
+1130,2025-08-03,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Curitiba
+1131,2025-02-21,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,Curitiba
+1132,2025-10-29,Headset RGB,Eletrônicos,1,250.0,250.0,Diana,Belo Horizonte
+1133,2025-04-22,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,São Paulo
+1134,2025-09-23,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Diana,Belo Horizonte
+1135,2025-08-22,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Porto Alegre
+1136,2025-06-20,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,São Paulo
+1137,2025-09-08,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,São Paulo
+1138,2025-02-16,Webcam HD,Eletrônicos,1,180.0,180.0,Bruno,Belo Horizonte
+1139,2025-10-27,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,Curitiba
+1140,2025-09-26,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Curitiba
+1141,2025-12-28,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,Porto Alegre
+1142,2025-07-26,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Carlos,Belo Horizonte
+1143,2025-09-19,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Rio de Janeiro
+1144,2025-05-28,Webcam HD,Eletrônicos,1,180.0,180.0,Eduardo,Porto Alegre
+1145,2025-05-17,Webcam HD,Eletrônicos,2,180.0,360.0,Carlos,Porto Alegre
+1146,2026-01-07,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,Curitiba
+1147,2025-09-13,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Ana,Rio de Janeiro
+1148,2025-12-07,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Porto Alegre
+1149,2026-02-05,Webcam HD,Eletrônicos,3,180.0,540.0,Ana,São Paulo
+1150,2025-03-02,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,Curitiba
+1151,2025-09-04,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,Rio de Janeiro
+1152,2026-01-28,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Curitiba
+1153,2026-01-19,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Eduardo,Rio de Janeiro
+1154,2025-09-13,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,Belo Horizonte
+1155,2025-10-10,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Rio de Janeiro
+1156,2025-03-03,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Bruno,Porto Alegre
+1157,2025-04-13,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,Porto Alegre
+1158,2025-11-05,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Eduardo,São Paulo
+1159,2025-06-26,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,São Paulo
+1160,2026-02-03,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,São Paulo
+1161,2025-08-23,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,São Paulo
+1162,2025-08-29,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Rio de Janeiro
+1163,2025-08-17,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,Belo Horizonte
+1164,2025-08-11,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,Rio de Janeiro
+1165,2025-05-21,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,Porto Alegre
+1166,2025-04-23,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,São Paulo
+1167,2025-04-27,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,Belo Horizonte
+1168,2025-12-07,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Bruno,Porto Alegre
+1169,2025-04-02,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Curitiba
+1170,2025-04-05,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,São Paulo
+1171,2025-08-23,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,Curitiba
+1172,2025-03-15,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Porto Alegre
+1173,2025-06-06,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Belo Horizonte
+1174,2025-11-08,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Rio de Janeiro
+1175,2025-05-19,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,Curitiba
+1176,2025-09-13,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Ana,Porto Alegre
+1177,2025-06-03,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Belo Horizonte
+1178,2025-03-15,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,Rio de Janeiro
+1179,2025-07-31,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,Belo Horizonte
+1180,2025-10-26,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Bruno,Porto Alegre
+1181,2025-11-17,Webcam HD,Eletrônicos,1,180.0,180.0,Ana,Rio de Janeiro
+1182,2025-08-28,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Porto Alegre
+1183,2026-02-04,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Curitiba
+1184,2026-02-09,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Carlos,São Paulo
+1185,2026-01-04,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,Curitiba
+1186,2025-10-16,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Diana,Belo Horizonte
+1187,2025-10-17,Webcam HD,Eletrônicos,1,180.0,180.0,Bruno,Porto Alegre
+1188,2025-02-15,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Carlos,Belo Horizonte
+1189,2026-01-11,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Porto Alegre
+1190,2026-01-17,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,São Paulo
+1191,2025-04-19,Webcam HD,Eletrônicos,3,180.0,540.0,Ana,Rio de Janeiro
+1192,2025-08-31,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Eduardo,Curitiba
+1193,2025-07-18,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Rio de Janeiro
+1194,2025-06-28,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Porto Alegre
+1195,2025-10-08,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,Rio de Janeiro
+1196,2025-09-07,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Eduardo,Rio de Janeiro
+1197,2025-04-05,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,Curitiba
+1198,2025-08-12,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Belo Horizonte
+1199,2025-06-29,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,Belo Horizonte
+1200,2026-01-20,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Belo Horizonte
+1201,2025-05-06,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Rio de Janeiro
+1202,2025-02-18,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,São Paulo
+1203,2025-12-07,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Rio de Janeiro
+1204,2025-05-18,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Bruno,São Paulo
+1205,2025-02-19,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,Porto Alegre
+1206,2025-05-01,Webcam HD,Eletrônicos,1,180.0,180.0,Ana,São Paulo
+1207,2025-11-19,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,São Paulo
+1208,2025-08-17,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Curitiba
+1209,2025-11-12,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Curitiba
+1210,2025-12-12,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,São Paulo
+1211,2025-04-18,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Rio de Janeiro
+1212,2025-10-05,Webcam HD,Eletrônicos,1,180.0,180.0,Ana,Rio de Janeiro
+1213,2026-01-29,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Porto Alegre
+1214,2025-08-24,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Curitiba
+1215,2025-03-04,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Curitiba
+1216,2025-07-17,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Rio de Janeiro
+1217,2025-08-01,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,Curitiba
+1218,2025-12-01,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,Belo Horizonte
+1219,2026-01-27,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,São Paulo
+1220,2025-08-24,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,Curitiba
+1221,2025-04-26,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Rio de Janeiro
+1222,2025-08-29,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Eduardo,Rio de Janeiro
+1223,2025-09-23,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,Belo Horizonte
+1224,2025-12-29,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Eduardo,Rio de Janeiro
+1225,2025-05-18,Webcam HD,Eletrônicos,1,180.0,180.0,Ana,Curitiba
+1226,2025-05-29,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,São Paulo
+1227,2025-10-03,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,São Paulo
+1228,2025-06-09,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,Rio de Janeiro
+1229,2025-07-03,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Ana,Rio de Janeiro
+1230,2025-06-10,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,Rio de Janeiro
+1231,2025-07-07,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,São Paulo
+1232,2025-07-22,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Curitiba
+1233,2025-05-21,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,Belo Horizonte
+1234,2025-11-25,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,Rio de Janeiro
+1235,2025-06-04,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,São Paulo
+1236,2025-07-14,Headset RGB,Eletrônicos,1,250.0,250.0,Diana,São Paulo
+1237,2025-10-11,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,Porto Alegre
+1238,2025-06-09,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,São Paulo
+1239,2025-07-01,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Belo Horizonte
+1240,2025-03-14,Headset RGB,Eletrônicos,1,250.0,250.0,Eduardo,Curitiba
+1241,2025-07-26,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Ana,Belo Horizonte
+1242,2025-05-30,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Rio de Janeiro
+1243,2025-08-08,Webcam HD,Eletrônicos,3,180.0,540.0,Diana,Curitiba
+1244,2025-07-21,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Belo Horizonte
+1245,2025-03-10,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,Curitiba
+1246,2025-03-11,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,Porto Alegre
+1247,2025-05-14,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Belo Horizonte
+1248,2025-06-02,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Belo Horizonte
+1249,2025-04-02,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,São Paulo
+1250,2025-06-02,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Curitiba
+1251,2026-02-06,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,São Paulo
+1252,2025-03-27,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Porto Alegre
+1253,2025-09-11,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,Rio de Janeiro
+1254,2025-03-09,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,São Paulo
+1255,2025-04-10,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,Curitiba
+1256,2025-05-11,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,Curitiba
+1257,2025-07-13,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,Belo Horizonte
+1258,2025-11-02,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,Porto Alegre
+1259,2025-05-02,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,Belo Horizonte
+1260,2025-07-10,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Eduardo,São Paulo
+1261,2026-02-06,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Porto Alegre
+1262,2025-03-06,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,Curitiba
+1263,2026-01-15,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Belo Horizonte
+1264,2025-12-18,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Carlos,Rio de Janeiro
+1265,2026-01-02,Webcam HD,Eletrônicos,1,180.0,180.0,Eduardo,Porto Alegre
+1266,2025-06-06,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Rio de Janeiro
+1267,2025-06-06,Webcam HD,Eletrônicos,1,180.0,180.0,Carlos,Belo Horizonte
+1268,2025-03-02,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Belo Horizonte
+1269,2025-10-19,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Rio de Janeiro
+1270,2025-09-12,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,Curitiba
+1271,2025-10-13,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Porto Alegre
+1272,2026-01-12,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,Belo Horizonte
+1273,2025-08-18,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Curitiba
+1274,2025-07-10,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Belo Horizonte
+1275,2025-04-06,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Porto Alegre
+1276,2025-09-06,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,Belo Horizonte
+1277,2026-01-17,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,Rio de Janeiro
+1278,2026-01-31,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,Rio de Janeiro
+1279,2025-03-31,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Belo Horizonte
+1280,2025-09-15,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Ana,Curitiba
+1281,2025-03-30,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Rio de Janeiro
+1282,2025-08-08,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,Porto Alegre
+1283,2025-08-15,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,São Paulo
+1284,2025-04-02,Headset RGB,Eletrônicos,1,250.0,250.0,Diana,Porto Alegre
+1285,2025-07-18,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Porto Alegre
+1286,2025-10-04,Webcam HD,Eletrônicos,3,180.0,540.0,Ana,Belo Horizonte
+1287,2025-07-05,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,Belo Horizonte
+1288,2025-08-08,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,Porto Alegre
+1289,2025-07-19,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,Belo Horizonte
+1290,2025-06-29,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,Curitiba
+1291,2025-12-27,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,São Paulo
+1292,2025-02-19,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,São Paulo
+1293,2025-04-06,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,Belo Horizonte
+1294,2025-06-27,Webcam HD,Eletrônicos,3,180.0,540.0,Diana,Belo Horizonte
+1295,2025-10-14,Monitor 24pol,Eletrônicos,1,890.0,890.0,Ana,Belo Horizonte
+1296,2025-05-19,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,São Paulo
+1297,2025-07-09,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,São Paulo
+1298,2025-10-20,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Belo Horizonte
+1299,2026-01-20,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,São Paulo
+1300,2025-05-21,Webcam HD,Eletrônicos,3,180.0,540.0,Diana,Belo Horizonte
+1301,2025-09-22,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,São Paulo
+1302,2025-05-10,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,Rio de Janeiro
+1303,2025-04-21,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,Belo Horizonte
+1304,2025-08-10,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,Rio de Janeiro
+1305,2025-08-04,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Rio de Janeiro
+1306,2025-12-09,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Eduardo,Porto Alegre
+1307,2025-06-25,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Bruno,São Paulo
+1308,2025-07-06,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Bruno,Curitiba
+1309,2026-01-30,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Belo Horizonte
+1310,2025-03-04,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Curitiba
+1311,2025-09-27,Webcam HD,Eletrônicos,2,180.0,360.0,Carlos,Porto Alegre
+1312,2025-05-25,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,Belo Horizonte
+1313,2025-03-05,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,São Paulo
+1314,2025-08-01,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,Belo Horizonte
+1315,2025-10-01,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Eduardo,Porto Alegre
+1316,2025-05-18,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Rio de Janeiro
+1317,2025-06-20,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,São Paulo
+1318,2025-03-29,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Belo Horizonte
+1319,2025-04-18,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Belo Horizonte
+1320,2025-12-04,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Porto Alegre
+1321,2025-02-24,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,São Paulo
+1322,2025-04-30,Headset RGB,Eletrônicos,3,250.0,750.0,Bruno,São Paulo
+1323,2025-11-07,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Rio de Janeiro
+1324,2025-02-27,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Belo Horizonte
+1325,2025-10-23,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Belo Horizonte
+1326,2025-11-13,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,São Paulo
+1327,2025-08-27,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,Porto Alegre
+1328,2025-07-21,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,Porto Alegre
+1329,2025-05-04,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Porto Alegre
+1330,2025-06-29,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,Belo Horizonte
+1331,2025-10-30,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Porto Alegre
+1332,2025-11-30,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Rio de Janeiro
+1333,2025-09-11,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Porto Alegre
+1334,2025-06-26,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Eduardo,Curitiba
+1335,2025-08-08,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,Curitiba
+1336,2025-06-24,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Porto Alegre
+1337,2026-02-11,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,São Paulo
+1338,2025-11-18,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Carlos,Belo Horizonte
+1339,2025-10-15,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,Belo Horizonte
+1340,2026-01-12,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Rio de Janeiro
+1341,2026-02-09,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,Rio de Janeiro
+1342,2025-03-24,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,São Paulo
+1343,2025-11-19,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Porto Alegre
+1344,2025-02-11,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Carlos,Curitiba
+1345,2025-08-02,Webcam HD,Eletrônicos,1,180.0,180.0,Carlos,Porto Alegre
+1346,2025-11-22,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Belo Horizonte
+1347,2025-03-09,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Curitiba
+1348,2025-08-25,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Carlos,São Paulo
+1349,2025-03-24,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,Rio de Janeiro
+1350,2025-09-25,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Porto Alegre
+1351,2025-05-05,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Rio de Janeiro
+1352,2025-05-27,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Belo Horizonte
+1353,2025-10-01,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,Porto Alegre
+1354,2025-08-08,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,Belo Horizonte
+1355,2025-12-19,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,Porto Alegre
+1356,2025-06-14,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Porto Alegre
+1357,2025-05-17,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Porto Alegre
+1358,2025-03-24,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,Porto Alegre
+1359,2025-09-20,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,Belo Horizonte
+1360,2025-06-27,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,Rio de Janeiro
+1361,2026-01-20,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Curitiba
+1362,2025-09-09,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Rio de Janeiro
+1363,2026-01-22,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,Curitiba
+1364,2025-05-25,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Belo Horizonte
+1365,2025-05-26,Webcam HD,Eletrônicos,1,180.0,180.0,Bruno,São Paulo
+1366,2025-08-02,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,Porto Alegre
+1367,2025-06-28,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,São Paulo
+1368,2026-02-04,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Porto Alegre
+1369,2025-09-11,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Bruno,Belo Horizonte
+1370,2025-06-09,Monitor 24pol,Eletrônicos,1,890.0,890.0,Ana,Curitiba
+1371,2025-06-03,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Bruno,Belo Horizonte
+1372,2025-08-13,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,Curitiba
+1373,2025-12-18,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Bruno,Belo Horizonte
+1374,2025-11-30,Webcam HD,Eletrônicos,1,180.0,180.0,Bruno,São Paulo
+1375,2025-03-16,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,Curitiba
+1376,2025-08-16,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Belo Horizonte
+1377,2025-07-12,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,Belo Horizonte
+1378,2025-06-25,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Carlos,São Paulo
+1379,2025-08-24,Webcam HD,Eletrônicos,1,180.0,180.0,Carlos,Porto Alegre
+1380,2025-05-04,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Porto Alegre
+1381,2025-06-13,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Belo Horizonte
+1382,2026-01-31,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Rio de Janeiro
+1383,2025-02-22,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Belo Horizonte
+1384,2025-08-24,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,Curitiba
+1385,2025-03-20,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,São Paulo
+1386,2025-06-18,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,Curitiba
+1387,2025-08-04,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,São Paulo
+1388,2025-10-14,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Belo Horizonte
+1389,2025-09-17,Headset RGB,Eletrônicos,1,250.0,250.0,Eduardo,São Paulo
+1390,2025-10-28,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Belo Horizonte
+1391,2025-07-28,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Porto Alegre
+1392,2025-11-13,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Porto Alegre
+1393,2025-05-04,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Curitiba
+1394,2025-07-17,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Porto Alegre
+1395,2025-05-01,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,Rio de Janeiro
+1396,2025-09-08,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Belo Horizonte
+1397,2025-11-02,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,São Paulo
+1398,2025-07-06,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Porto Alegre
+1399,2025-11-02,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,Curitiba
+1400,2025-12-30,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,São Paulo
+1401,2025-10-22,Headset RGB,Eletrônicos,1,250.0,250.0,Diana,São Paulo
+1402,2025-08-12,Webcam HD,Eletrônicos,3,180.0,540.0,Diana,Porto Alegre
+1403,2025-08-26,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Porto Alegre
+1404,2025-04-01,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,São Paulo
+1405,2025-10-13,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Rio de Janeiro
+1406,2026-02-06,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,Belo Horizonte
+1407,2025-06-19,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,São Paulo
+1408,2026-01-01,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Porto Alegre
+1409,2025-03-22,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,Porto Alegre
+1410,2025-07-06,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Curitiba
+1411,2025-08-31,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Curitiba
+1412,2025-09-10,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,São Paulo
+1413,2025-06-02,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,São Paulo
+1414,2025-04-14,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Rio de Janeiro
+1415,2025-07-07,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,Curitiba
+1416,2025-02-13,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,Curitiba
+1417,2025-11-07,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,Rio de Janeiro
+1418,2025-12-21,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,Curitiba
+1419,2025-02-21,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Curitiba
+1420,2025-11-08,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Porto Alegre
+1421,2025-06-07,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,Belo Horizonte
+1422,2025-12-04,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,Rio de Janeiro
+1423,2025-08-01,Headset RGB,Eletrônicos,1,250.0,250.0,Eduardo,Porto Alegre
+1424,2025-05-09,Webcam HD,Eletrônicos,2,180.0,360.0,Carlos,Belo Horizonte
+1425,2026-02-02,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,Belo Horizonte
+1426,2025-02-22,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,São Paulo
+1427,2025-02-21,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,Curitiba
+1428,2025-12-01,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,São Paulo
+1429,2025-03-19,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Bruno,São Paulo
+1430,2025-10-30,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Rio de Janeiro
+1431,2025-03-11,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Porto Alegre
+1432,2025-04-27,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Carlos,Porto Alegre
+1433,2025-10-26,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,Rio de Janeiro
+1434,2025-12-31,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Curitiba
+1435,2026-02-04,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,Curitiba
+1436,2026-01-20,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,Rio de Janeiro
+1437,2025-07-10,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Rio de Janeiro
+1438,2025-08-08,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Rio de Janeiro
+1439,2025-11-12,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Rio de Janeiro
+1440,2026-02-09,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,Porto Alegre
+1441,2025-05-06,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Bruno,Belo Horizonte
+1442,2025-08-17,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,Belo Horizonte
+1443,2025-03-08,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,São Paulo
+1444,2025-04-29,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Bruno,Curitiba
+1445,2025-04-15,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,São Paulo
+1446,2025-10-01,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Carlos,Belo Horizonte
+1447,2025-06-26,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Carlos,Rio de Janeiro
+1448,2025-10-07,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Eduardo,Rio de Janeiro
+1449,2025-09-20,Webcam HD,Eletrônicos,3,180.0,540.0,Diana,Rio de Janeiro
+1450,2025-07-28,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Porto Alegre
+1451,2025-04-26,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Belo Horizonte
+1452,2025-07-09,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Curitiba
+1453,2025-07-14,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Belo Horizonte
+1454,2026-01-25,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,Belo Horizonte
+1455,2025-03-03,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,São Paulo
+1456,2025-05-06,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Rio de Janeiro
+1457,2025-09-20,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,São Paulo
+1458,2026-01-27,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Porto Alegre
+1459,2026-02-09,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Curitiba
+1460,2026-01-27,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Curitiba
+1461,2025-09-13,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,Belo Horizonte
+1462,2025-09-20,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Porto Alegre
+1463,2025-08-06,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,Curitiba
+1464,2026-01-08,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,Rio de Janeiro
+1465,2025-07-15,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Rio de Janeiro
+1466,2025-10-28,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,São Paulo
+1467,2025-04-28,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Belo Horizonte
+1468,2025-11-16,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Bruno,Porto Alegre
+1469,2026-02-06,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,Porto Alegre
+1470,2025-09-18,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,Belo Horizonte
+1471,2025-08-21,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,Rio de Janeiro
+1472,2025-11-26,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,Rio de Janeiro
+1473,2025-02-20,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,Porto Alegre
+1474,2025-06-03,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,São Paulo
+1475,2025-05-17,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Porto Alegre
+1476,2025-07-17,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Ana,Porto Alegre
+1477,2025-09-13,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Belo Horizonte
+1478,2025-05-26,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Eduardo,Rio de Janeiro
+1479,2025-02-26,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Diana,Rio de Janeiro
+1480,2025-07-02,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,São Paulo
+1481,2025-05-22,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,Porto Alegre
+1482,2025-06-24,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,Rio de Janeiro
+1483,2025-09-02,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Belo Horizonte
+1484,2025-11-06,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Porto Alegre
+1485,2025-09-20,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Diana,Curitiba
+1486,2025-04-30,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,Porto Alegre
+1487,2025-08-31,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Bruno,Curitiba
+1488,2025-11-06,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,Curitiba
+1489,2025-08-17,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Diana,São Paulo
+1490,2025-07-26,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Porto Alegre
+1491,2025-04-29,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Belo Horizonte
+1492,2025-11-05,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,São Paulo
+1493,2025-03-18,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Porto Alegre
+1494,2025-11-29,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Rio de Janeiro
+1495,2025-06-08,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Porto Alegre
+1496,2025-08-09,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,Rio de Janeiro
+1497,2025-09-04,Headset RGB,Eletrônicos,1,250.0,250.0,Diana,Rio de Janeiro
+1498,2025-09-08,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Rio de Janeiro
+1499,2025-08-04,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Diana,Rio de Janeiro
+1500,2025-07-11,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Porto Alegre
+1501,2025-06-06,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Belo Horizonte
+1502,2025-10-09,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Bruno,Curitiba
+1503,2025-06-18,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Porto Alegre
+1504,2025-05-04,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,São Paulo
+1505,2026-01-07,Headset RGB,Eletrônicos,1,250.0,250.0,Diana,Belo Horizonte
+1506,2025-11-12,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,Rio de Janeiro
+1507,2025-03-25,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Ana,Porto Alegre
+1508,2025-02-11,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,Porto Alegre
+1509,2025-11-04,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Porto Alegre
+1510,2025-10-27,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,Curitiba
+1511,2025-02-21,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,Rio de Janeiro
+1512,2026-01-10,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Belo Horizonte
+1513,2025-03-10,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,São Paulo
+1514,2025-03-24,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Eduardo,Porto Alegre
+1515,2025-06-08,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Rio de Janeiro
+1516,2025-10-09,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,Rio de Janeiro
+1517,2025-08-25,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Diana,Curitiba
+1518,2025-07-31,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Belo Horizonte
+1519,2026-02-07,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Curitiba
+1520,2025-06-11,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,Rio de Janeiro
+1521,2025-10-06,Webcam HD,Eletrônicos,3,180.0,540.0,Diana,Porto Alegre
+1522,2025-12-12,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,São Paulo
+1523,2026-01-30,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Curitiba
+1524,2025-10-03,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,Rio de Janeiro
+1525,2026-01-26,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,São Paulo
+1526,2025-09-13,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Curitiba
+1527,2025-03-18,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Rio de Janeiro
+1528,2025-06-11,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,Curitiba
+1529,2025-08-03,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,Belo Horizonte
+1530,2025-07-31,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Porto Alegre
+1531,2026-02-02,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,São Paulo
+1532,2025-04-29,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Carlos,Curitiba
+1533,2025-03-02,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,Curitiba
+1534,2025-06-01,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Carlos,São Paulo
+1535,2025-12-29,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Porto Alegre
+1536,2025-12-24,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,São Paulo
+1537,2025-02-20,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,Curitiba
+1538,2025-08-15,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,Porto Alegre
+1539,2025-06-01,Headset RGB,Eletrônicos,1,250.0,250.0,Diana,São Paulo
+1540,2025-06-12,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,Porto Alegre
+1541,2025-10-13,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,São Paulo
+1542,2026-01-03,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Diana,Belo Horizonte
+1543,2025-06-23,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Bruno,São Paulo
+1544,2025-11-07,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,São Paulo
+1545,2025-07-18,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Porto Alegre
+1546,2025-02-18,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Rio de Janeiro
+1547,2025-12-31,Webcam HD,Eletrônicos,3,180.0,540.0,Diana,Belo Horizonte
+1548,2025-08-16,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,São Paulo
+1549,2026-01-05,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,São Paulo
+1550,2025-12-18,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,São Paulo
+1551,2025-09-07,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Porto Alegre
+1552,2025-11-04,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Belo Horizonte
+1553,2026-01-20,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Belo Horizonte
+1554,2025-02-18,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,São Paulo
+1555,2025-05-15,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Eduardo,Belo Horizonte
+1556,2025-04-19,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Carlos,Belo Horizonte
+1557,2025-09-08,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Porto Alegre
+1558,2025-08-28,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Belo Horizonte
+1559,2025-04-27,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,São Paulo
+1560,2025-07-10,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,Curitiba
+1561,2025-04-15,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Eduardo,Belo Horizonte
+1562,2025-07-04,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Rio de Janeiro
+1563,2025-05-31,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Carlos,Belo Horizonte
+1564,2025-12-07,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,Porto Alegre
+1565,2025-04-06,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,São Paulo
+1566,2025-08-03,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Bruno,São Paulo
+1567,2025-05-14,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,São Paulo
+1568,2025-12-21,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Carlos,Curitiba
+1569,2025-06-01,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Porto Alegre
+1570,2025-10-03,Headset RGB,Eletrônicos,3,250.0,750.0,Bruno,Porto Alegre
+1571,2025-02-23,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Curitiba
+1572,2025-05-31,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Belo Horizonte
+1573,2025-03-28,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Belo Horizonte
+1574,2025-06-18,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Porto Alegre
+1575,2025-08-01,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Belo Horizonte
+1576,2025-12-17,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Eduardo,Rio de Janeiro
+1577,2025-10-04,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,Rio de Janeiro
+1578,2025-03-10,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,São Paulo
+1579,2025-09-21,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,São Paulo
+1580,2025-08-29,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,Porto Alegre
+1581,2025-07-25,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Porto Alegre
+1582,2025-06-30,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Porto Alegre
+1583,2025-08-19,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Porto Alegre
+1584,2025-07-27,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,Curitiba
+1585,2025-04-04,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Curitiba
+1586,2026-01-15,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Porto Alegre
+1587,2025-05-31,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,Belo Horizonte
+1588,2026-02-10,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Rio de Janeiro
+1589,2025-09-01,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Belo Horizonte
+1590,2025-09-08,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Belo Horizonte
+1591,2025-05-15,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,Belo Horizonte
+1592,2025-04-13,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Porto Alegre
+1593,2025-05-28,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,São Paulo
+1594,2025-12-10,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,Belo Horizonte
+1595,2025-10-24,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Porto Alegre
+1596,2025-09-17,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,Rio de Janeiro
+1597,2025-02-28,Headset RGB,Eletrônicos,3,250.0,750.0,Bruno,Rio de Janeiro
+1598,2025-08-30,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Rio de Janeiro
+1599,2025-06-05,Webcam HD,Eletrônicos,1,180.0,180.0,Ana,Curitiba
+1600,2025-07-01,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Porto Alegre
+1601,2025-02-28,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Eduardo,Belo Horizonte
+1602,2025-12-03,Monitor 24pol,Eletrônicos,1,890.0,890.0,Ana,Porto Alegre
+1603,2025-03-15,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Belo Horizonte
+1604,2025-04-09,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,São Paulo
+1605,2025-10-19,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,Rio de Janeiro
+1606,2025-08-08,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,São Paulo
+1607,2025-07-29,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Rio de Janeiro
+1608,2025-12-02,Webcam HD,Eletrônicos,3,180.0,540.0,Ana,Belo Horizonte
+1609,2025-06-22,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Bruno,São Paulo
+1610,2026-01-17,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Rio de Janeiro
+1611,2025-05-04,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,Rio de Janeiro
+1612,2025-09-19,Webcam HD,Eletrônicos,2,180.0,360.0,Carlos,Rio de Janeiro
+1613,2025-03-10,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Curitiba
+1614,2025-08-31,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Rio de Janeiro
+1615,2025-12-12,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,Curitiba
+1616,2025-11-24,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,Rio de Janeiro
+1617,2025-05-13,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Carlos,Porto Alegre
+1618,2025-08-18,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,Rio de Janeiro
+1619,2025-06-16,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Porto Alegre
+1620,2026-01-13,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Porto Alegre
+1621,2025-12-04,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Belo Horizonte
+1622,2025-05-21,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,Porto Alegre
+1623,2025-09-26,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Porto Alegre
+1624,2025-02-17,Webcam HD,Eletrônicos,2,180.0,360.0,Carlos,Porto Alegre
+1625,2025-04-22,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,Curitiba
+1626,2026-02-06,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Belo Horizonte
+1627,2025-10-18,Headset RGB,Eletrônicos,3,250.0,750.0,Bruno,São Paulo
+1628,2025-05-26,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,Porto Alegre
+1629,2025-10-22,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,São Paulo
+1630,2025-06-27,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Belo Horizonte
+1631,2025-03-07,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Curitiba
+1632,2025-03-11,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Bruno,São Paulo
+1633,2025-05-09,Headset RGB,Eletrônicos,2,250.0,500.0,Carlos,Curitiba
+1634,2025-05-03,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,São Paulo
+1635,2025-10-25,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,São Paulo
+1636,2025-05-21,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,São Paulo
+1637,2025-12-24,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,Curitiba
+1638,2025-12-08,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Curitiba
+1639,2025-05-09,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Porto Alegre
+1640,2026-01-01,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Belo Horizonte
+1641,2025-10-24,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,Porto Alegre
+1642,2025-02-26,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,São Paulo
+1643,2025-07-22,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Eduardo,Belo Horizonte
+1644,2025-03-29,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Porto Alegre
+1645,2025-07-25,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,Curitiba
+1646,2025-03-03,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Eduardo,São Paulo
+1647,2025-12-04,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,Rio de Janeiro
+1648,2025-09-30,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Bruno,Curitiba
+1649,2026-01-09,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,São Paulo
+1650,2025-06-19,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,São Paulo
+1651,2025-02-20,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,Rio de Janeiro
+1652,2025-07-31,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,Porto Alegre
+1653,2025-06-13,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Belo Horizonte
+1654,2025-03-18,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Belo Horizonte
+1655,2025-02-12,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Belo Horizonte
+1656,2026-02-11,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,São Paulo
+1657,2025-11-07,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Eduardo,Porto Alegre
+1658,2025-02-23,Headset RGB,Eletrônicos,2,250.0,500.0,Carlos,São Paulo
+1659,2025-09-12,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Eduardo,Belo Horizonte
+1660,2025-06-09,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,Porto Alegre
+1661,2025-03-05,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,São Paulo
+1662,2025-03-10,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,Rio de Janeiro
+1663,2025-12-04,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Belo Horizonte
+1664,2025-04-22,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Eduardo,São Paulo
+1665,2025-07-17,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Curitiba
+1666,2025-04-26,Webcam HD,Eletrônicos,1,180.0,180.0,Ana,Curitiba
+1667,2025-08-29,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Eduardo,Porto Alegre
+1668,2026-01-16,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,Belo Horizonte
+1669,2025-05-14,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,Porto Alegre
+1670,2025-04-06,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,São Paulo
+1671,2025-08-08,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Rio de Janeiro
+1672,2025-04-15,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,Porto Alegre
+1673,2025-09-12,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,São Paulo
+1674,2025-11-16,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,Porto Alegre
+1675,2025-07-27,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,São Paulo
+1676,2026-01-31,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Curitiba
+1677,2025-09-12,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,São Paulo
+1678,2025-11-28,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,São Paulo
+1679,2025-09-02,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Belo Horizonte
+1680,2026-01-12,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Belo Horizonte
+1681,2025-06-26,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Porto Alegre
+1682,2025-02-25,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Carlos,Rio de Janeiro
+1683,2025-11-10,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,Rio de Janeiro
+1684,2025-11-19,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Ana,Porto Alegre
+1685,2025-04-01,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,Curitiba
+1686,2026-01-06,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Bruno,São Paulo
+1687,2025-09-22,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Curitiba
+1688,2025-12-01,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,Rio de Janeiro
+1689,2026-01-27,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,São Paulo
+1690,2025-04-15,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Diana,Belo Horizonte
+1691,2025-12-13,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Eduardo,São Paulo
+1692,2025-04-20,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Belo Horizonte
+1693,2025-04-01,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Curitiba
+1694,2025-05-15,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Porto Alegre
+1695,2026-01-03,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,São Paulo
+1696,2026-01-06,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,Porto Alegre
+1697,2025-12-23,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Diana,Rio de Janeiro
+1698,2025-04-14,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Curitiba
+1699,2025-05-26,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Porto Alegre
+1700,2025-10-19,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,Rio de Janeiro
+1701,2025-06-10,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,São Paulo
+1702,2025-11-30,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Curitiba
+1703,2025-06-14,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Rio de Janeiro
+1704,2025-12-28,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,Porto Alegre
+1705,2026-01-30,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,Belo Horizonte
+1706,2026-01-20,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Porto Alegre
+1707,2026-01-13,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Carlos,São Paulo
+1708,2025-05-18,Webcam HD,Eletrônicos,1,180.0,180.0,Ana,Rio de Janeiro
+1709,2025-11-09,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,São Paulo
+1710,2025-05-23,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Belo Horizonte
+1711,2026-01-15,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,São Paulo
+1712,2025-02-27,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,São Paulo
+1713,2025-10-25,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,São Paulo
+1714,2025-03-06,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Porto Alegre
+1715,2025-05-23,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,Curitiba
+1716,2025-06-22,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,Curitiba
+1717,2025-12-02,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Ana,Rio de Janeiro
+1718,2025-03-02,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Bruno,Rio de Janeiro
+1719,2025-05-06,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,Curitiba
+1720,2025-09-04,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,Rio de Janeiro
+1721,2025-05-31,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Curitiba
+1722,2025-09-06,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,São Paulo
+1723,2025-03-20,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,Porto Alegre
+1724,2025-09-18,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,Curitiba
+1725,2025-08-31,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,São Paulo
+1726,2025-08-11,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Curitiba
+1727,2025-08-21,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Porto Alegre
+1728,2025-10-06,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Diana,São Paulo
+1729,2025-03-16,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,São Paulo
+1730,2025-06-19,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,São Paulo
+1731,2025-12-28,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,Rio de Janeiro
+1732,2025-07-02,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Curitiba
+1733,2026-01-24,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Rio de Janeiro
+1734,2025-03-14,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Bruno,São Paulo
+1735,2025-09-08,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Porto Alegre
+1736,2025-06-20,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,Porto Alegre
+1737,2025-02-18,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,Belo Horizonte
+1738,2025-09-23,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,Curitiba
+1739,2026-02-09,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Belo Horizonte
+1740,2025-09-29,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Belo Horizonte
+1741,2025-06-26,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Belo Horizonte
+1742,2025-08-23,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Curitiba
+1743,2025-08-26,Webcam HD,Eletrônicos,3,180.0,540.0,Ana,São Paulo
+1744,2025-10-05,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Curitiba
+1745,2025-06-08,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Eduardo,Curitiba
+1746,2025-05-26,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Eduardo,Belo Horizonte
+1747,2026-01-10,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Curitiba
+1748,2026-01-15,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Bruno,Porto Alegre
+1749,2025-10-20,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,Porto Alegre
+1750,2025-06-29,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,Rio de Janeiro
+1751,2025-06-21,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Porto Alegre
+1752,2025-06-11,Webcam HD,Eletrônicos,1,180.0,180.0,Bruno,Belo Horizonte
+1753,2025-07-07,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Porto Alegre
+1754,2025-09-19,Webcam HD,Eletrônicos,1,180.0,180.0,Eduardo,São Paulo
+1755,2025-05-13,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,Porto Alegre
+1756,2025-03-29,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Curitiba
+1757,2025-02-23,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,Rio de Janeiro
+1758,2025-09-10,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,São Paulo
+1759,2025-04-30,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,São Paulo
+1760,2025-05-19,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Carlos,São Paulo
+1761,2025-08-25,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Eduardo,São Paulo
+1762,2025-07-22,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,Porto Alegre
+1763,2025-06-20,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Ana,Porto Alegre
+1764,2025-11-08,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Bruno,São Paulo
+1765,2025-05-21,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,São Paulo
+1766,2025-07-31,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,Belo Horizonte
+1767,2025-04-06,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,São Paulo
+1768,2025-06-20,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,Rio de Janeiro
+1769,2025-11-06,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,Rio de Janeiro
+1770,2025-09-19,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Carlos,Curitiba
+1771,2025-10-02,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Curitiba
+1772,2025-09-04,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Rio de Janeiro
+1773,2025-10-22,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,Rio de Janeiro
+1774,2025-03-21,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Bruno,São Paulo
+1775,2025-12-09,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,Belo Horizonte
+1776,2025-09-22,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Curitiba
+1777,2025-11-18,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Rio de Janeiro
+1778,2025-05-28,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,Porto Alegre
+1779,2025-07-30,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Porto Alegre
+1780,2025-05-31,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,Porto Alegre
+1781,2025-02-17,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Belo Horizonte
+1782,2025-09-08,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Eduardo,Curitiba
+1783,2025-02-26,Webcam HD,Eletrônicos,1,180.0,180.0,Eduardo,Belo Horizonte
+1784,2025-07-22,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Eduardo,Porto Alegre
+1785,2025-09-15,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,São Paulo
+1786,2025-06-28,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Carlos,São Paulo
+1787,2025-04-08,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Diana,Rio de Janeiro
+1788,2025-08-31,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Rio de Janeiro
+1789,2025-12-15,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Eduardo,São Paulo
+1790,2025-06-01,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Rio de Janeiro
+1791,2025-05-27,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Ana,Rio de Janeiro
+1792,2025-04-24,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Belo Horizonte
+1793,2025-08-16,Headset RGB,Eletrônicos,2,250.0,500.0,Carlos,Rio de Janeiro
+1794,2025-06-13,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Belo Horizonte
+1795,2025-05-02,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,São Paulo
+1796,2025-03-14,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,Curitiba
+1797,2025-02-12,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,São Paulo
+1798,2025-09-20,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,Rio de Janeiro
+1799,2025-05-19,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Porto Alegre
+1800,2025-10-07,Monitor 24pol,Eletrônicos,1,890.0,890.0,Ana,Belo Horizonte
+1801,2025-11-19,Headset RGB,Eletrônicos,2,250.0,500.0,Carlos,Curitiba
+1802,2025-09-24,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Curitiba
+1803,2025-02-16,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Eduardo,Rio de Janeiro
+1804,2025-09-16,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,Rio de Janeiro
+1805,2025-07-10,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,São Paulo
+1806,2025-09-27,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,Curitiba
+1807,2025-05-04,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,Belo Horizonte
+1808,2025-11-01,Webcam HD,Eletrônicos,1,180.0,180.0,Eduardo,Rio de Janeiro
+1809,2025-09-12,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,São Paulo
+1810,2025-08-21,Headset RGB,Eletrônicos,2,250.0,500.0,Diana,São Paulo
+1811,2026-02-10,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Eduardo,Rio de Janeiro
+1812,2025-07-27,Monitor 24pol,Eletrônicos,1,890.0,890.0,Carlos,Rio de Janeiro
+1813,2026-01-21,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,Porto Alegre
+1814,2025-09-18,Webcam HD,Eletrônicos,1,180.0,180.0,Carlos,Porto Alegre
+1815,2025-03-03,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,Belo Horizonte
+1816,2025-10-01,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Belo Horizonte
+1817,2025-06-05,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Rio de Janeiro
+1818,2025-05-17,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,Porto Alegre
+1819,2025-05-29,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Belo Horizonte
+1820,2025-06-19,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Ana,Rio de Janeiro
+1821,2025-05-17,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Porto Alegre
+1822,2025-07-25,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,Curitiba
+1823,2025-03-28,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Eduardo,Belo Horizonte
+1824,2025-05-11,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Ana,Curitiba
+1825,2026-01-26,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,São Paulo
+1826,2025-11-03,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Curitiba
+1827,2025-08-20,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,São Paulo
+1828,2025-02-12,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,São Paulo
+1829,2025-10-30,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,Belo Horizonte
+1830,2025-05-03,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Curitiba
+1831,2025-09-22,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Curitiba
+1832,2025-04-19,Webcam HD,Eletrônicos,1,180.0,180.0,Carlos,Belo Horizonte
+1833,2025-08-15,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Bruno,Porto Alegre
+1834,2025-10-16,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Bruno,Rio de Janeiro
+1835,2025-07-16,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Porto Alegre
+1836,2025-07-02,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,Rio de Janeiro
+1837,2025-06-24,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Rio de Janeiro
+1838,2025-05-13,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Diana,São Paulo
+1839,2025-05-27,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Porto Alegre
+1840,2025-08-21,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,São Paulo
+1841,2025-06-21,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Curitiba
+1842,2025-11-24,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,Belo Horizonte
+1843,2025-10-12,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Ana,Curitiba
+1844,2026-01-04,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Belo Horizonte
+1845,2025-07-10,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,Belo Horizonte
+1846,2025-07-01,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Eduardo,Rio de Janeiro
+1847,2025-07-03,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Curitiba
+1848,2025-06-01,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,Porto Alegre
+1849,2025-07-08,Webcam HD,Eletrônicos,1,180.0,180.0,Ana,Porto Alegre
+1850,2025-11-01,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Carlos,São Paulo
+1851,2025-02-20,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,Rio de Janeiro
+1852,2025-03-04,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,Belo Horizonte
+1853,2025-06-16,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,São Paulo
+1854,2025-12-27,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,Rio de Janeiro
+1855,2025-03-06,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Curitiba
+1856,2025-11-10,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Ana,Curitiba
+1857,2025-06-17,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Curitiba
+1858,2026-01-28,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,Rio de Janeiro
+1859,2025-05-29,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Rio de Janeiro
+1860,2025-11-22,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,Curitiba
+1861,2025-06-12,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Ana,São Paulo
+1862,2025-06-25,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Diana,Curitiba
+1863,2025-08-15,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Porto Alegre
+1864,2025-10-29,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Porto Alegre
+1865,2025-03-10,Headset RGB,Eletrônicos,3,250.0,750.0,Carlos,São Paulo
+1866,2025-05-01,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Porto Alegre
+1867,2025-09-06,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,Belo Horizonte
+1868,2025-07-13,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Rio de Janeiro
+1869,2025-05-15,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Rio de Janeiro
+1870,2025-07-16,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Porto Alegre
+1871,2025-10-07,Webcam HD,Eletrônicos,2,180.0,360.0,Bruno,Belo Horizonte
+1872,2025-11-08,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,São Paulo
+1873,2025-11-18,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Rio de Janeiro
+1874,2026-02-07,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Diana,São Paulo
+1875,2026-01-04,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,Porto Alegre
+1876,2025-04-22,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Eduardo,Porto Alegre
+1877,2025-05-17,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,São Paulo
+1878,2025-12-28,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,Porto Alegre
+1879,2025-02-11,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Diana,Belo Horizonte
+1880,2025-09-06,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Diana,Porto Alegre
+1881,2025-02-13,Webcam HD,Eletrônicos,1,180.0,180.0,Ana,São Paulo
+1882,2025-06-02,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,Curitiba
+1883,2025-05-25,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,Curitiba
+1884,2026-01-15,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Carlos,Curitiba
+1885,2025-05-18,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Rio de Janeiro
+1886,2025-03-30,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Ana,Belo Horizonte
+1887,2025-02-23,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Belo Horizonte
+1888,2025-05-19,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Ana,Rio de Janeiro
+1889,2025-06-12,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Bruno,Rio de Janeiro
+1890,2025-12-16,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,Belo Horizonte
+1891,2025-11-27,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Belo Horizonte
+1892,2025-07-01,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,Rio de Janeiro
+1893,2025-04-21,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Ana,Porto Alegre
+1894,2026-01-19,Headset RGB,Eletrônicos,1,250.0,250.0,Diana,Curitiba
+1895,2025-10-04,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Rio de Janeiro
+1896,2025-06-12,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Porto Alegre
+1897,2025-11-30,Webcam HD,Eletrônicos,1,180.0,180.0,Eduardo,Belo Horizonte
+1898,2025-09-14,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Porto Alegre
+1899,2025-05-25,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Bruno,Belo Horizonte
+1900,2025-10-23,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,São Paulo
+1901,2025-11-13,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Belo Horizonte
+1902,2025-07-29,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,Porto Alegre
+1903,2025-05-26,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,Curitiba
+1904,2025-05-18,Monitor 24pol,Eletrônicos,1,890.0,890.0,Eduardo,Curitiba
+1905,2025-09-27,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,Porto Alegre
+1906,2025-09-23,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,Belo Horizonte
+1907,2025-08-29,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,São Paulo
+1908,2025-03-22,Headset RGB,Eletrônicos,3,250.0,750.0,Bruno,Belo Horizonte
+1909,2025-12-05,Webcam HD,Eletrônicos,1,180.0,180.0,Eduardo,São Paulo
+1910,2026-02-07,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Carlos,Rio de Janeiro
+1911,2025-11-09,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Eduardo,Rio de Janeiro
+1912,2025-04-07,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Porto Alegre
+1913,2025-12-19,Webcam HD,Eletrônicos,2,180.0,360.0,Carlos,Rio de Janeiro
+1914,2025-11-21,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Rio de Janeiro
+1915,2025-11-14,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,São Paulo
+1916,2025-03-27,Monitor 24pol,Eletrônicos,3,890.0,2670.0,Carlos,São Paulo
+1917,2025-07-16,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Carlos,Porto Alegre
+1918,2025-02-18,Webcam HD,Eletrônicos,1,180.0,180.0,Ana,Rio de Janeiro
+1919,2025-02-22,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Eduardo,São Paulo
+1920,2025-04-19,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Belo Horizonte
+1921,2025-04-10,Webcam HD,Eletrônicos,3,180.0,540.0,Diana,São Paulo
+1922,2026-02-01,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Ana,São Paulo
+1923,2025-05-07,Webcam HD,Eletrônicos,1,180.0,180.0,Carlos,Belo Horizonte
+1924,2025-06-18,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Eduardo,Rio de Janeiro
+1925,2025-10-26,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Curitiba
+1926,2025-05-20,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Ana,Porto Alegre
+1927,2025-05-15,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Eduardo,Porto Alegre
+1928,2026-01-14,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,São Paulo
+1929,2025-12-22,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Rio de Janeiro
+1930,2026-01-26,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,São Paulo
+1931,2026-01-09,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,São Paulo
+1932,2025-04-14,Webcam HD,Eletrônicos,1,180.0,180.0,Diana,São Paulo
+1933,2025-07-27,Monitor 24pol,Eletrônicos,1,890.0,890.0,Diana,Porto Alegre
+1934,2025-08-06,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,Rio de Janeiro
+1935,2025-04-06,Headset RGB,Eletrônicos,1,250.0,250.0,Eduardo,São Paulo
+1936,2025-11-30,Webcam HD,Eletrônicos,3,180.0,540.0,Bruno,Curitiba
+1937,2026-02-10,Webcam HD,Eletrônicos,3,180.0,540.0,Eduardo,Rio de Janeiro
+1938,2025-10-21,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Ana,Porto Alegre
+1939,2025-03-28,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Porto Alegre
+1940,2025-12-08,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Rio de Janeiro
+1941,2025-05-22,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Ana,Porto Alegre
+1942,2025-12-18,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,Belo Horizonte
+1943,2025-12-17,Headset RGB,Eletrônicos,3,250.0,750.0,Diana,São Paulo
+1944,2025-02-16,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,São Paulo
+1945,2025-03-29,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Eduardo,São Paulo
+1946,2026-01-10,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,Curitiba
+1947,2025-10-30,Headset RGB,Eletrônicos,1,250.0,250.0,Diana,Curitiba
+1948,2025-11-07,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Diana,Curitiba
+1949,2025-03-13,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Diana,Belo Horizonte
+1950,2025-04-09,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Carlos,Rio de Janeiro
+1951,2025-10-08,Mouse Sem Fio,Eletrônicos,3,120.0,360.0,Ana,Belo Horizonte
+1952,2025-05-01,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,São Paulo
+1953,2026-01-10,Monitor 24pol,Eletrônicos,1,890.0,890.0,Bruno,São Paulo
+1954,2025-07-14,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Carlos,São Paulo
+1955,2025-11-05,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,São Paulo
+1956,2025-07-11,Headset RGB,Eletrônicos,1,250.0,250.0,Bruno,Porto Alegre
+1957,2025-08-18,Webcam HD,Eletrônicos,3,180.0,540.0,Carlos,Curitiba
+1958,2025-04-12,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Carlos,Porto Alegre
+1959,2025-03-28,Headset RGB,Eletrônicos,1,250.0,250.0,Diana,Porto Alegre
+1960,2025-04-19,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,Rio de Janeiro
+1961,2025-05-27,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,São Paulo
+1962,2025-03-11,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Bruno,Curitiba
+1963,2025-05-21,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Diana,Rio de Janeiro
+1964,2025-05-08,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,São Paulo
+1965,2025-08-18,Headset RGB,Eletrônicos,1,250.0,250.0,Ana,Rio de Janeiro
+1966,2025-07-22,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,São Paulo
+1967,2025-10-22,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Ana,Belo Horizonte
+1968,2025-12-11,Webcam HD,Eletrônicos,2,180.0,360.0,Diana,Porto Alegre
+1969,2025-05-20,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Diana,Curitiba
+1970,2025-07-27,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Ana,São Paulo
+1971,2025-09-30,Teclado Mecânico,Eletrônicos,1,350.0,350.0,Bruno,Porto Alegre
+1972,2025-05-30,Headset RGB,Eletrônicos,2,250.0,500.0,Bruno,Rio de Janeiro
+1973,2025-08-31,Headset RGB,Eletrônicos,1,250.0,250.0,Carlos,Porto Alegre
+1974,2025-11-13,Headset RGB,Eletrônicos,3,250.0,750.0,Bruno,Porto Alegre
+1975,2025-02-14,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Carlos,Rio de Janeiro
+1976,2025-12-20,Monitor 24pol,Eletrônicos,2,890.0,1780.0,Diana,São Paulo
+1977,2026-01-14,Headset RGB,Eletrônicos,3,250.0,750.0,Eduardo,Belo Horizonte
+1978,2026-01-10,Headset RGB,Eletrônicos,3,250.0,750.0,Ana,Curitiba
+1979,2025-11-13,Cadeira Ergonômica,Móveis,1,1200.0,1200.0,Ana,Belo Horizonte
+1980,2025-03-11,Notebook Gamer,Eletrônicos,3,4500.0,13500.0,Carlos,Rio de Janeiro
+1981,2025-10-21,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Belo Horizonte
+1982,2025-10-19,Teclado Mecânico,Eletrônicos,2,350.0,700.0,Eduardo,Porto Alegre
+1983,2025-09-18,Headset RGB,Eletrônicos,2,250.0,500.0,Ana,Porto Alegre
+1984,2025-09-23,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Carlos,Porto Alegre
+1985,2025-08-25,Webcam HD,Eletrônicos,2,180.0,360.0,Ana,Curitiba
+1986,2025-03-30,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Diana,Curitiba
+1987,2025-06-28,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Diana,Porto Alegre
+1988,2025-10-31,Headset RGB,Eletrônicos,2,250.0,500.0,Carlos,São Paulo
+1989,2026-01-11,Mouse Sem Fio,Eletrônicos,2,120.0,240.0,Diana,São Paulo
+1990,2025-12-17,Cadeira Ergonômica,Móveis,3,1200.0,3600.0,Bruno,São Paulo
+1991,2025-05-12,Headset RGB,Eletrônicos,2,250.0,500.0,Eduardo,Belo Horizonte
+1992,2025-08-16,Notebook Gamer,Eletrônicos,1,4500.0,4500.0,Bruno,Curitiba
+1993,2026-01-09,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Bruno,Belo Horizonte
+1994,2025-06-13,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Ana,Curitiba
+1995,2025-04-28,Teclado Mecânico,Eletrônicos,3,350.0,1050.0,Bruno,Belo Horizonte
+1996,2025-05-23,Cadeira Ergonômica,Móveis,2,1200.0,2400.0,Carlos,Porto Alegre
+1997,2025-05-25,Webcam HD,Eletrônicos,2,180.0,360.0,Eduardo,Porto Alegre
+1998,2025-03-28,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Belo Horizonte
+1999,2025-11-15,Notebook Gamer,Eletrônicos,2,4500.0,9000.0,Eduardo,Porto Alegre
+2000,2025-12-31,Mouse Sem Fio,Eletrônicos,1,120.0,120.0,Diana,Belo Horizonte

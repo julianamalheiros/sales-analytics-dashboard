@@ -1,0 +1,64 @@
+import pandas as pd
+import random
+from datetime import datetime, timedelta
+
+def gerar_dados_vendas(qtd_registros=1000):
+    """Gera um DataFrame com dados fictícios de vendas."""
+    
+    produtos = {
+        'Notebook Gamer': 4500.00,
+        'Mouse Sem Fio': 120.00,
+        'Teclado Mecânico': 350.00,
+        'Monitor 24pol': 890.00,
+        'Headset RGB': 250.00,
+        'Cadeira Ergonômica': 1200.00,
+        'Webcam HD': 180.00
+    }
+    
+    cidades = ['São Paulo', 'Rio de Janeiro', 'Belo Horizonte', 'Curitiba', 'Porto Alegre']
+    vendedores = ['Ana', 'Bruno', 'Carlos', 'Diana', 'Eduardo']
+    
+    dados = []
+    
+    # Data inicial: 1 ano atrás
+    data_inicio = datetime.now() - timedelta(days=365)
+    
+    print(f"Gerando {qtd_registros} vendas...")
+    
+    for i in range(qtd_registros):
+        produto_nome = random.choice(list(produtos.keys()))
+        preco_unitario = produtos[produto_nome]
+        quantidade = random.randint(1, 3)
+        valor_total = preco_unitario * quantidade
+        
+        # Data aleatória no último ano
+        dias_aleatorios = random.randint(0, 365)
+        data_venda = data_inicio + timedelta(days=dias_aleatorios)
+        
+        venda = {
+            'id_venda': i + 1,
+            'data': data_venda.strftime('%Y-%m-%d'),
+            'produto': produto_nome,
+            'categoria': 'Eletrônicos' if 'Cadeira' not in produto_nome else 'Móveis',
+            'quantidade': quantidade,
+            'preco_unitario': preco_unitario,
+            'valor_total': valor_total,
+            'vendedor': random.choice(vendedores),
+            'cidade': random.choice(cidades)
+        }
+        dados.append(venda)
+        
+    df = pd.DataFrame(dados)
+    return df
+
+if __name__ == "__main__":
+    df_vendas = gerar_dados_vendas(2000)
+    
+    # Salvar em CSV
+    caminho_arquivo = 'vendas_loja.csv'
+    df_vendas.to_csv(caminho_arquivo, index=False)
+    
+    print(f"\n✅ Arquivo '{caminho_arquivo}' gerado com sucesso!")
+    print("\nPrimeiras 5 linhas:")
+    print(df_vendas.head())
+    print(f"\nTotal de vendas geradas: R$ {df_vendas['valor_total'].sum():,.2f}")
